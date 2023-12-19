@@ -1,8 +1,37 @@
 ---
 description: Get started using Agua!
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Get started
+
+## Create an account
+
+Create your free account to get started with Agua. After you've set up your account in [auth.agua.app](https://auth.agua.app/signin/), you'll be able to create as many projects as you like.
+
+{% tabs %}
+{% tab title="1. Sign up" %}
+<figure><img src="../../.gitbook/assets/auth.agua.app.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+You can [sign up](https://auth.agua.app/signin/) via Google.
+
+##
+
+## Basic Requirements
 
 Agua is a web app that can be used from your browser.\
 Please review these system requirements for the best experience:
@@ -13,3 +42,21 @@ Please review these system requirements for the best experience:
 * Allow **editor.agua.app** to [edit the files in your local repository](./).
 {% endhint %}
 
+
+
+## Need Help?
+
+Contact us directly!
+
+* Email [support@agua.dev](mailto:support@agua.dev).
+* Book a [meeting with our founders](https://agua.tools/meetings/developers/onboarding).
+* Chat with us on [WhatsApp](https://wa.me/12396883277).
+
+
+
+{% hint style="info" %}
+**Help us improve our docs!**
+
+* If there are any topics you'd like us to add to our documentation, please share your feedback in our [Roadmap](https://roadmap.agua.app/).
+* Edit this page in our [GitHub Repo](https://github.com/Agua-for-devs/agua-documentation) to fix an error or add an improvement to our documentation in a merge request.
+{% endhint %}

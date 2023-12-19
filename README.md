@@ -82,6 +82,8 @@ Also,
 
 
 {% hint style="info" %}
-**Help us improve our docs!**\
-Edit this page in [our GitHub Repo ](https://github.com/Agua-for-devs/agua-documentation)to fix an error or add an improvement in a merge request.
+**Help us improve our docs!**
+
+* If there are any topics you'd like us to add to our documentation, please share your feedback in our [Roadmap](https://roadmap.agua.app/).
+* Edit this page in our [GitHub Repo](https://github.com/Agua-for-devs/agua-documentation) to fix an error or add an improvement to our documentation in a merge request.
 {% endhint %}
