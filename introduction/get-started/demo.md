@@ -11,10 +11,6 @@ description: Discover what can be done in Agua!
 <figure><img src="../../.gitbook/assets/Agua_Apple_Demo_Desktop.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Tablet" %}
-<figure><img src="../../.gitbook/assets/Agua_Apple_Demo_Tablet.jpg" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="Phone" %}
 <figure><img src="../../.gitbook/assets/Agua_Apple_Demo_Phone.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
