@@ -5,16 +5,16 @@
 ## Introduction
 
 * [Use cases](introduction/use-cases.md)
-* [Initial setup](introduction/initial-setup/README.md)
+* [Initial setup](introduction/initial-setup.md)
   * [Onboarding](https://agua.tools/meetings/developers/onboarding)
   * [Editor](https://console.agua.app/)
 
 ## UI Editor
 
-* [UI Overview](ui-editor/ui-overview.md)
-* [Fundamentals](ui-editor/fundamentals/README.md)
+* [UI Overview](fundamentals/ui-editor.md)
+* [Fundamentals](fundamentals/code-editor.md)
   * [Dashboard](ui-editor/fundamentals/dashboard.md)
-* [Advanced](ui-editor/advanced/README.md)
+* [Advanced](fundamentals/components.md)
   * [Page 1](ui-editor/advanced/page-1.md)
 
 ## Code Editor
