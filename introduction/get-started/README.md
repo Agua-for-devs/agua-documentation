@@ -13,5 +13,3 @@ Please review these system requirements for the best experience:
 * Allow **editor.agua.app** to [edit the files in your local repository](./).
 {% endhint %}
 
-##
-

@@ -7,6 +7,7 @@
 * [Get started](introduction/get-started/README.md)
   * [Onboarding](https://agua.tools/meetings/developers/onboarding)
   * [Editor](https://console.agua.app/)
+  * [Demo](introduction/get-started/demo.md)
 
 ## Components
 
