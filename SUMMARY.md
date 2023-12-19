@@ -5,7 +5,7 @@
 ## Introduction
 
 * [Use cases](introduction/use-cases.md)
-* [Initial setup](introduction/initial-setup.md)
+* [Get started](introduction/get-started/README.md)
   * [Onboarding](https://agua.tools/meetings/developers/onboarding)
   * [Editor](https://console.agua.app/)
 
