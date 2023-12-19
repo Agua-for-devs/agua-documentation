@@ -17,19 +17,61 @@ layout:
 
 ## Create an account
 
-Create your free account to get started with Agua. After you've set up your account in [auth.agua.app](https://auth.agua.app/signin/), you'll be able to create as many projects as you like.
+Create your free account to get started with Agua. After you've set up your account you'll be able to create as many projects as you like.
+
+
 
 {% tabs %}
 {% tab title="1. Sign up" %}
-<figure><img src="../../.gitbook/assets/auth.agua.app.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/auth_agua_app.png" alt=""><figcaption></figcaption></figure>
+
+Enter [auth.agua.app](https://auth.agua.app/signin/).
 {% endtab %}
 {% endtabs %}
 
 
 
-You can [sign up](https://auth.agua.app/signin/) via Google.
+{% tabs %}
+{% tab title="2. Google account" %}
+<figure><img src="../../.gitbook/assets/accounts_google_com.png" alt=""><figcaption></figcaption></figure>
 
-##
+You can [sign up](https://auth.agua.app/signin/) via Google.
+{% endtab %}
+{% endtabs %}
+
+
+
+{% tabs %}
+{% tab title="3. Dashboard" %}
+<figure><img src="../../.gitbook/assets/console_agua_app.png" alt=""><figcaption></figcaption></figure>
+
+Once in the [dashboard](https://console.agua.app/) click in the [Open Editor](https://editor.agua.app/) button.
+{% endtab %}
+{% endtabs %}
+
+
+
+{% tabs %}
+{% tab title="4. Editor Landing" %}
+<figure><img src="../../.gitbook/assets/editor_agua_app.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="4.1 Recent Editor Landing" %}
+<figure><img src="../../.gitbook/assets/editor_agua_app_recent.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+{% tabs %}
+{% tab title="5. File Editing Permition" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 ## Basic Requirements
 
