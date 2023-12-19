@@ -4,10 +4,17 @@
 
 ## Introduction
 
-* [Use cases](introduction/use-cases.md)
 * [Get started](introduction/get-started/README.md)
   * [Onboarding](https://agua.tools/meetings/developers/onboarding)
   * [Editor](https://console.agua.app/)
+
+## Components
+
+* [Components Overview](components/components-overview.md)
+* [Fundamentals](components/fundamentals/README.md)
+  * [Page 6](components/fundamentals/page-6.md)
+* [Advanced](components/advanced/README.md)
+  * [Page 7](components/advanced/page-7.md)
 
 ## UI Editor
 
@@ -24,14 +31,6 @@
   * [Page 3](code-editor/fundamentals/page-3.md)
 * [Advanced](code-editor/advanced/README.md)
   * [Page 4](code-editor/advanced/page-4.md)
-
-## Components
-
-* [Components Overview](components/components-overview.md)
-* [Fundamentals](components/fundamentals/README.md)
-  * [Page 6](components/fundamentals/page-6.md)
-* [Advanced](components/advanced/README.md)
-  * [Page 7](components/advanced/page-7.md)
 
 ## Help and Community
 
