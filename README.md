@@ -22,7 +22,7 @@ Agua is the **free** React Toolkit for front-end developers. You can import, man
 
 {% tabs %}
 {% tab title="Components" %}
-**Import your** [**components**](./#components)**, and use our preview to: create variants and document them.**
+**Import your** [**components**](components/components-overview.md)**, and use our preview to: create variants and document them.**
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Components.png" alt="Components"><figcaption></figcaption></figure>
 {% endtab %}
@@ -33,7 +33,7 @@ Agua is the **free** React Toolkit for front-end developers. You can import, man
 {% tabs %}
 {% tab title="UI Editor" %}
 Use your components to update an create new responsive user interfaces.\
-Stylize using the CSS properties of our [graphical editor](./#ui-editor).
+Stylize using the CSS properties of our [graphical editor](fundamentals/ui-editor.md).
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo.png" alt="UI editor"><figcaption></figcaption></figure>
 {% endtab %}
@@ -43,7 +43,7 @@ Stylize using the CSS properties of our [graphical editor](./#ui-editor).
 
 {% tabs %}
 {% tab title="Code Generator" %}
-All the interfaces you created in our UI editor, are automatically exported into [clean React code](./#code-generator).
+All the interfaces you created in our UI editor, are automatically exported into [clean React code](code-editor/code-overview.md).
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Code.png" alt="Code Generator"><figcaption></figcaption></figure>
 {% endtab %}
@@ -53,7 +53,7 @@ All the interfaces you created in our UI editor, are automatically exported into
 
 {% tabs %}
 {% tab title="AI" %}
-Use our [AI tools](./#ai) to document components, find errors, explain your code to your team, and generate unit tests.
+Use our [AI tools](code-editor/code-overview.md) to document components, find errors, explain your code to your team, and generate unit tests.
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_AI.png" alt="AI"><figcaption></figcaption></figure>
 {% endtab %}
