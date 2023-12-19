@@ -34,8 +34,12 @@ Please review these system requirements for the best experience:
 
 
 
+## Step-by-step
+
+### 1. Access our Web App .
+
 {% tabs %}
-{% tab title="1. Sign up" %}
+{% tab title="Sign up" %}
 <figure><img src="../../.gitbook/assets/auth_agua_app.png" alt=""><figcaption></figcaption></figure>
 
 Enter [auth.agua.app](https://auth.agua.app/signin/).
@@ -44,83 +48,99 @@ Enter [auth.agua.app](https://auth.agua.app/signin/).
 
 
 
+### &#x20;2. Sign up with Google.
+
 {% tabs %}
-{% tab title="2. Google account" %}
+{% tab title="Google account" %}
 <figure><img src="../../.gitbook/assets/accounts_google_com.png" alt=""><figcaption></figcaption></figure>
-
-You can [sign up](https://auth.agua.app/signin/) via Google.
 {% endtab %}
 {% endtabs %}
 
 
+
+
+
+### 3.  Click \[_Open Editor_].
 
 {% tabs %}
-{% tab title="3. Dashboard" %}
+{% tab title="Dashboard" %}
 <figure><img src="../../.gitbook/assets/console_agua_app.png" alt=""><figcaption></figcaption></figure>
-
-Once in the [dashboard](https://console.agua.app/) click in the \[[Open Editor](https://editor.agua.app/)] button.
 {% endtab %}
 {% endtabs %}
 
 
+
+
+
+### 4. Click \[_**Open folder**_**].**
 
 {% tabs %}
 {% tab title="4. Editor landing" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app.png" alt=""><figcaption></figcaption></figure>
 
-Inside the [editor landing page](https://editor.agua.app/), you will find the \[**Open folder...]** button to connect your [local GitHub Repo](https://docs.github.com/en/get-started/quickstart/hello-world) with an Agua project.\
+The \[**Open folder]** button will allow you connect a [local GitHub Repo](https://docs.github.com/en/get-started/quickstart/hello-world) with a new Agua project.\
 \
-Also, you can access:
+You can also access:
 
-* Our Documentation \[[Read the docs](https://docs.agua.dev/)]
-* Out Tutorials \[[Watch our courses](https://www.youtube.com/@aguafordevs)]
-* Our WhatsApp contact \[[Contact us for support](https://wa.me/12396883277)]
-* Our one-to-one onboarding \[[Book a call with our founders](https://agua.tools/meetings/developers/onboarding)]
+* Our Documentation \[[_Read the docs_](https://docs.agua.dev/)]
+* Out Tutorials \[[_Watch our courses_](https://www.youtube.com/@aguafordevs)]
+* Our WhatsApp contact \[[_Contact us for support_](https://wa.me/12396883277)]
+* Our one-to-one onboarding \[[_Book a call with our founders_](https://agua.tools/meetings/developers/onboarding)]
 {% endtab %}
 
 {% tab title="4.1 Editor landing recent section" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_recent.png" alt=""><figcaption></figcaption></figure>
 
-Once you have created previous projects, the \[[Recent](https://editor.agua.app/)] section will allow you to see the title of each one, access it directly.
+Once you have created previous projects, the _Recent_ section will allow you to see the title of each one, access it directly.
 {% endtab %}
 {% endtabs %}
 
 
 
+### 5. Locate your folder.
+
 {% tabs %}
-{% tab title="5. File Editing Permition" %}
+{% tab title="Local GitHub Repo" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_select_folder (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
+### 6. Grant files permission.
+
 {% tabs %}
-{% tab title="6." %}
+{% tab title="Local files edit" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_edit_files_access.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
+### 7. Access your project.
+
 {% tabs %}
-{% tab title="7. Empty project" %}
+{% tab title="Empty project" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_empty_project.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
+### 8. Save the project.
+
 {% tabs %}
-{% tab title="8. Saving the new project" %}
+{% tab title="Save button" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_saved.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
+### 9. Review your code.
+
 {% tabs %}
-{% tab title="9. Local saved code" %}
+{% tab title="Local saved code" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_saved_agua_code.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
