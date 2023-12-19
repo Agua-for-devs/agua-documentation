@@ -31,6 +31,7 @@
   * [Page 3](code-editor/fundamentals/page-3.md)
 * [Advanced](code-editor/advanced/README.md)
   * [Page 4](code-editor/advanced/page-4.md)
+* [AI Overview](code-editor/ai-overview.md)
 
 ## Help and Community
 

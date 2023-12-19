@@ -53,7 +53,7 @@ All the interfaces you created in our UI editor, are automatically exported into
 
 {% tabs %}
 {% tab title="AI" %}
-Use our [AI tools](code-editor/code-overview.md) to document components, find errors, explain your code to your team, and generate unit tests.
+Use our [AI tools](code-editor/ai-overview.md) to document components, find errors, explain your code to your team, and generate unit tests.
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_AI.png" alt="AI"><figcaption></figcaption></figure>
 {% endtab %}
