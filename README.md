@@ -1,5 +1,5 @@
 ---
-description: Welcome to Agua! built by developers, for developers. ❤️
+description: Welcome to Agua! built by developers, for developers. 🤍
 layout:
   title:
     visible: true
