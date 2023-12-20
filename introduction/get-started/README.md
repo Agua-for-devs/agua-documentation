@@ -15,13 +15,13 @@ layout:
 
 # Get started
 
-## Create an account
+## Create an account.
 
 Create your free account to get started with Agua. After you've set up your account you'll be able to create as many projects as you like.
 
 
 
-## Basic Requirements
+## Basic Requirements.
 
 Agua is a web app that can be used from your browser.\
 Please review these system requirements for the best experience:
@@ -46,8 +46,6 @@ Enter [auth.agua.app](https://auth.agua.app/signin/).
 {% endtab %}
 {% endtabs %}
 
-
-
 ### &#x20;2. Sign up with Google.
 
 {% tabs %}
@@ -55,8 +53,6 @@ Enter [auth.agua.app](https://auth.agua.app/signin/).
 <figure><img src="../../.gitbook/assets/accounts_google_com.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
 
 ### 3.  Click \[_Open Editor_].
 
@@ -72,12 +68,6 @@ You can also access:
 * \[[_Help_](https://wa.me/12396883277)]
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
 
 ### 4. Click \[_**Open folder**_**].**
 
@@ -102,8 +92,6 @@ Once you have created previous projects, the _Recent_ section will allow you to 
 {% endtab %}
 {% endtabs %}
 
-
-
 ### 5. Locate your folder.
 
 {% tabs %}
@@ -117,8 +105,6 @@ Your Finder or File Explorer will pop-up and you will be able to select your des
 {% endtab %}
 {% endtabs %}
 
-
-
 ### 6. Grant files permission.
 
 {% tabs %}
@@ -128,8 +114,6 @@ Your Finder or File Explorer will pop-up and you will be able to select your des
 Given our Google Chrome integration, you will have to grant your Agua projects access to securely edit your files in the selected folder. For keeping your privacy and the integrity of your files, the access must be renewed each time the project tab is refreshed.
 {% endtab %}
 {% endtabs %}
-
-
 
 ### 7. Access your project.
 
@@ -141,8 +125,6 @@ With your local folder selected, you will be access the [Agua Editor](https://ed
 {% endtab %}
 {% endtabs %}
 
-
-
 ### 8. Save the project.
 
 {% tabs %}
@@ -152,8 +134,6 @@ With your local folder selected, you will be access the [Agua Editor](https://ed
 Ones you have edited your components or user interfaces, you should click the \[_Save_] button in the upper right side of the screen. The button will be updated into \[Saved!] making sure your code is now saved and updated into your local folder.
 {% endtab %}
 {% endtabs %}
-
-
 
 ### 9. Review your code.
 
@@ -193,6 +173,36 @@ In Windows:
 2. `.agua` will show up as translucent in the local folder.
 {% endtab %}
 {% endtabs %}
+
+### 10. Deploy your project locally.&#x20;
+
+{% tabs %}
+{% tab title="LocalHost" %}
+<figure><img src="../../.gitbook/assets/Agua_Apple_Demo_LocalHost.png" alt=""><figcaption></figcaption></figure>
+
+In order to deploy your Agua project locally open the folder in your favorite IDE:
+
+* Replace in the `package.json` the following `"scripts"`:
+
+```json
+"start": "react-scripts --openssl-legacy-provider start",
+"build": "react-scripts --openssl-legacy-provider build",
+```
+
+<figure><img src="../../.gitbook/assets/Agua_Apple_Demo_VS_Code.png" alt=""><figcaption></figcaption></figure>
+
+Then, inside the Terminal:
+
+* `npm install`
+* `npm start`
+
+Finally, open your respective localhost tab in Google Chrome.
+{% endtab %}
+{% endtabs %}
+
+
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn more about <a href="../../components/components-overview.md"><strong>Components</strong></a><strong>.</strong></td><td></td><td><a href="../../components/components-overview.md">components-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="../../fundamentals/ui-editor.md">UI Editor</a><strong>.</strong></td><td></td><td><a href="../../fundamentals/ui-editor.md">ui-editor.md</a></td></tr><tr><td></td><td>Learn more about our <a href="../../code-editor/code-overview.md"><strong>Code Editor</strong></a><strong>.</strong></td><td></td><td><a href="../../code-editor/code-overview.md">code-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="../../code-editor/ai-overview.md">AI Tools</a><strong>.</strong></td><td></td><td><a href="../../code-editor/ai-overview.md">ai-overview.md</a></td></tr></tbody></table>
 
 
 
