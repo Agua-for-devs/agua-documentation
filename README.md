@@ -1,4 +1,5 @@
 ---
+description: Built by developers, for developers ❤️
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Welcome to Agua
+# Agua | Docs
 
 ## What is Agua?
 
