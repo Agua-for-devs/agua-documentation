@@ -70,6 +70,10 @@ Use our [AI tools](code-editor/ai-overview.md) to document components, find erro
 
 
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="introduction/get-started/"><strong>get started</strong></a>!</td><td></td><td><a href="introduction/get-started/">get-started</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
+
+
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn more about <a href="components/components-overview.md"><strong>Components</strong></a><strong>.</strong></td><td></td><td><a href="components/components-overview.md">components-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="fundamentals/ui-editor.md">UI Editor</a><strong>.</strong></td><td></td><td><a href="fundamentals/ui-editor.md">ui-editor.md</a></td></tr><tr><td></td><td>Learn more about our <a href="code-editor/code-overview.md"><strong>Code Editor</strong></a><strong>.</strong></td><td></td><td><a href="code-editor/code-overview.md">code-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="code-editor/ai-overview.md">AI Tools</a><strong>.</strong></td><td></td><td><a href="code-editor/ai-overview.md">ai-overview.md</a></td></tr></tbody></table>
 
 
