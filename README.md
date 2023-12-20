@@ -19,17 +19,21 @@ layout:
 
 Agua is the **free** React Toolkit for front-end developers. You can import, manage and document your components ing our AI tools, while using our Graphical Interface to updated and create new **web** user interfaces. **Develop clean code faster and easier!**
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="introduction/get-started/"><strong>get started</strong></a>!</td><td></td><td><a href="introduction/get-started/">get-started</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
 
+## What can you do?
+
+### 1. Manage your components
 
 {% tabs %}
-{% tab title="Components" %}
+{% tab title="Component Preview" %}
 **Import your** [**components**](components/components-overview.md)**, and use our preview to: create variants and document them.**
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Components.png" alt="Components"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-
+### 2. Create web user interfaces
 
 {% tabs %}
 {% tab title="UI Editor" %}
@@ -40,7 +44,7 @@ Stylize using the CSS properties of our [graphical editor](fundamentals/ui-edito
 {% endtab %}
 {% endtabs %}
 
-
+### 3. Export your React Code
 
 {% tabs %}
 {% tab title="Code Generator" %}
@@ -50,7 +54,7 @@ All the interfaces you created in our UI editor, are automatically exported into
 {% endtab %}
 {% endtabs %}
 
-
+### 4.  Improve your code with AI
 
 {% tabs %}
 {% tab title="AI" %}
@@ -59,10 +63,6 @@ Use our [AI tools](code-editor/ai-overview.md) to document components, find erro
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_AI.png" alt="AI"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="introduction/get-started/"><strong>get started</strong></a>!</td><td></td><td><a href="introduction/get-started/">get-started</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
 
 
 
