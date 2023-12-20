@@ -1,10 +1,10 @@
 ---
-description: Built by developers, for developers ❤️
+description: Welcome to Agua! built by developers, for developers. ❤️
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Agua | Docs
+# Docs
 
 ## What is Agua?
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Agua | Docs](README.md)
+* [Docs](README.md)
 
 ## Introduction
 
