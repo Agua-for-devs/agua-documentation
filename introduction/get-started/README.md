@@ -214,6 +214,10 @@ Contact us directly!
 * Book a [meeting with our founders](https://agua.tools/meetings/developers/onboarding).
 * Chat with us on [WhatsApp](https://wa.me/12396883277).
 
+Also,
+
+* Check out our [FAQ](../../help-and-community/faq.md).
+
 
 
 {% hint style="info" %}
