@@ -1,0 +1,36 @@
+
+- What is Agua?
+- Getting Started
+  - Inicio Rápido
+    - Tutorial: airbnb
+    - Thinking in Agua
+  - Basics
+    - Agua Project Structure
+    - The .agua folder
+    - How is your project persisted 
+      - When things are saved
+      - How to retrieve a previous version of your project
+      - How to overwrite things (you don't)
+    - Where is your code saved?
+      - How is the structure of a React project made in Agua
+      - Use another file/function
+    - Understanding our grid system
+      - Thinking in Flexbox
+        - Flexbox Basics
+          - Common Patterns
+          - Errors -> parent wrap, child fill
+        - Grid Tutorials
+          - Tutorial: Creating a blog grid
+          - Tutorial: Creating 
+    - Creating Responsive UIs
+    - Design Tokens
+    - Creating components
+    - Importing code
+    - Documentation
+  - Advanced
+    - Optimization
+    - Reusing classes
+    - Separating into files
+- Reference
+
+
