@@ -1,38 +1,53 @@
 # Table of contents
 
-* [Docs](README.md)
+* [What is Agua?](README.md)
 
-## Introduction
+## Getting Started
 
-* [Get started](introduction/get-started/README.md)
-  * [Onboarding](https://agua.tools/meetings/developers/onboarding)
-  * [Editor](https://console.agua.app/)
-  * [Demo](introduction/get-started/demo.md)
+* [Quick Start](getting-started/quick-start/README.md)
+  * [Tutorial: AirBnb](getting-started/quick-start/tutorial-airbnb.md)
+  * [Thinking in Agua](getting-started/quick-start/thinking-in-agua.md)
+* [Basics](getting-started/basics/README.md)
+  * [Create your account](getting-started/basics/create-your-account/README.md)
+    * [Onboarding](https://agua.tools/meetings/developers/onboarding)
+  * [Setup a project](getting-started/basics/setup-a-project/README.md)
+    * [Editor](https://console.agua.app/)
+  * [Platform tour](getting-started/basics/platform-tour/README.md)
+    * [UI Editor](getting-started/basics/platform-tour/ui-editor/README.md)
+      * [1. Navigation Menu](getting-started/basics/platform-tour/ui-editor/1.-navigation-menu.md)
+      * [2. Canva](getting-started/basics/platform-tour/ui-editor/2.-canva.md)
+      * [3. ToolBar](getting-started/basics/platform-tour/ui-editor/3.-toolbar.md)
+      * [4. Screens Panel](getting-started/basics/platform-tour/ui-editor/4.-screens-panel.md)
+      * [5. Elements Tree](getting-started/basics/platform-tour/ui-editor/5.-elements-tree.md)
+      * [6. Properties Panels](getting-started/basics/platform-tour/ui-editor/6.-properties-panels.md)
+      * [7. Contextual Panel](getting-started/basics/platform-tour/ui-editor/7.-contextual-panel.md)
+      * [8. Component Preview](getting-started/basics/platform-tour/ui-editor/8.-component-preview.md)
+    * [Code Editor](getting-started/basics/platform-tour/code-editor.md)
+    * [Settings](getting-started/basics/platform-tour/settings.md)
+  * [Save and deploy](getting-started/basics/save-and-deploy/README.md)
+    * [Demo](getting-started/basics/save-and-deploy/demo.md)
+* [Advance](getting-started/advance/README.md)
+  * [Optimization](getting-started/advance/optimization.md)
 
-## Components
+## References
 
-* [Components Overview](components/components-overview.md)
-* [Fundamentals](components/fundamentals/README.md)
-  * [Page 6](components/fundamentals/page-6.md)
-* [Advanced](components/advanced/README.md)
-  * [Page 7](components/advanced/page-7.md)
-
-## UI Editor
-
-* [UI Overview](fundamentals/ui-editor.md)
-* [Fundamentals](fundamentals/code-editor.md)
-  * [Dashboard](ui-editor/fundamentals/dashboard.md)
-* [Advanced](fundamentals/components.md)
-  * [Page 1](ui-editor/advanced/page-1.md)
-
-## Code Editor
-
-* [Code Overview](code-editor/code-overview.md)
-* [Fundamentals](code-editor/fundamentals/README.md)
-  * [Page 3](code-editor/fundamentals/page-3.md)
-* [Advanced](code-editor/advanced/README.md)
-  * [Page 4](code-editor/advanced/page-4.md)
-* [AI Overview](code-editor/ai-overview.md)
+* [Components](references/components.md)
+* [UI Editor](references/ui-editor/README.md)
+  * [Screens Panel](references/ui-editor/screens-panel.md)
+  * [Elements Tree](references/ui-editor/elements-tree.md)
+  * [Properties Panels](references/ui-editor/properties-panels/README.md)
+    * [Basic Properties](references/ui-editor/properties-panels/basic-properties.md)
+    * [Screen](references/ui-editor/properties-panels/screen.md)
+    * [Div](references/ui-editor/properties-panels/div.md)
+    * [Media](references/ui-editor/properties-panels/media.md)
+    * [Icon](references/ui-editor/properties-panels/icon.md)
+    * [Text](references/ui-editor/properties-panels/text.md)
+  * [ToolBar](references/ui-editor/toolbar.md)
+  * [Contextual Panel](references/ui-editor/contextual-panel.md)
+* [Code Editor](references/code-editor/README.md)
+  * [Page 3](references/code-editor/page-3.md)
+* [AI Tools](references/ai-tools/README.md)
+  * [Page 4](references/ai-tools/page-4.md)
 
 ## Help and Community
 
@@ -40,9 +55,3 @@
 * [Support](https://wa.me/12396883277)
 * [Latam Community](https://chat.whatsapp.com/B5fArEa3FXo18cuw18h4eG)
 * [Global Community](https://discord.com/invite/hqgEhc8VFN)
-
-## Web Development Recap
-
-* [React Fundamentals](https://legacy.reactjs.org/docs/getting-started.html)
-* [HTML Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-* [CSS Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/CSS)

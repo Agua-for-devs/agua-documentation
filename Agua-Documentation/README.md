@@ -13,15 +13,13 @@ layout:
     visible: false
 ---
 
-# Docs
-
-## What is Agua?
+# What is Agua?
 
 Agua is the **free** React Toolkit for front-end developers. You can import, manage and document your components ing our AI tools, while using our Graphical Interface to updated and create new **web** user interfaces. **Develop clean code faster and easier!**
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="introduction/get-started/"><strong>get started</strong></a>!</td><td></td><td><a href="introduction/get-started/">get-started</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="getting-started/basics/create-your-account/"><strong>get started</strong></a>!</td><td></td><td><a href="getting-started/basics/create-your-account/">create-your-account</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
 
 
 
@@ -31,7 +29,7 @@ Agua is the **free** React Toolkit for front-end developers. You can import, man
 
 {% tabs %}
 {% tab title="Component Preview" %}
-**Import your** [**components**](components/components-overview.md)**, and use our preview to: create variants and document them.**
+**Import your** [**components**](references/components.md)**, and use our preview to: create variants and document them.**
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Components.png" alt="Components"><figcaption></figcaption></figure>
 {% endtab %}
@@ -42,7 +40,7 @@ Agua is the **free** React Toolkit for front-end developers. You can import, man
 {% tabs %}
 {% tab title="UI Editor" %}
 Use your components to update an create new responsive user interfaces.\
-Stylize using the CSS properties of our [graphical editor](fundamentals/ui-editor.md).
+Stylize using the CSS properties of our [graphical editor](references/ui-editor/).
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo.png" alt="UI editor"><figcaption></figcaption></figure>
 {% endtab %}
@@ -52,7 +50,7 @@ Stylize using the CSS properties of our [graphical editor](fundamentals/ui-edito
 
 {% tabs %}
 {% tab title="Code Generator" %}
-All the interfaces you created in our UI editor, are automatically exported into [clean React code](code-editor/code-overview.md).
+All the interfaces you created in our UI editor, are automatically exported into [clean React code](references/code-editor/).
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Code.png" alt="Code Generator"><figcaption></figcaption></figure>
 {% endtab %}
@@ -62,7 +60,7 @@ All the interfaces you created in our UI editor, are automatically exported into
 
 {% tabs %}
 {% tab title="AI" %}
-Use our [AI tools](code-editor/ai-overview.md) to document components, find errors, explain your code to your team, and generate unit tests.
+Use our [AI tools](references/ai-tools/) to document components, find errors, explain your code to your team, and generate unit tests.
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_AI.png" alt="AI"><figcaption></figcaption></figure>
 {% endtab %}
@@ -70,11 +68,11 @@ Use our [AI tools](code-editor/ai-overview.md) to document components, find erro
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="introduction/get-started/"><strong>get started</strong></a>!</td><td></td><td><a href="introduction/get-started/">get-started</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn how to <a href="getting-started/basics/create-your-account/"><strong>get started</strong></a>!</td><td></td><td><a href="getting-started/basics/create-your-account/">create-your-account</a></td></tr><tr><td></td><td>Try Agua now with our <a href="https://github.com/Agua-for-devs/agua-apple-demo"><strong>Demo</strong></a><strong>!</strong></td><td></td><td><a href="https://github.com/Agua-for-devs/agua-apple-demo">https://github.com/Agua-for-devs/agua-apple-demo</a></td></tr></tbody></table>
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn more about <a href="components/components-overview.md"><strong>Components</strong></a><strong>.</strong></td><td></td><td><a href="components/components-overview.md">components-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="fundamentals/ui-editor.md">UI Editor</a><strong>.</strong></td><td></td><td><a href="fundamentals/ui-editor.md">ui-editor.md</a></td></tr><tr><td></td><td>Learn more about our <a href="code-editor/code-overview.md"><strong>Code Editor</strong></a><strong>.</strong></td><td></td><td><a href="code-editor/code-overview.md">code-overview.md</a></td></tr><tr><td></td><td>Learn more about our <a href="code-editor/ai-overview.md">AI Tools</a><strong>.</strong></td><td></td><td><a href="code-editor/ai-overview.md">ai-overview.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Learn more about <a href="references/components.md"><strong>Components</strong></a><strong>.</strong></td><td></td><td><a href="references/components.md">components.md</a></td></tr><tr><td></td><td>Learn more about our <a href="references/ui-editor/">UI Editor</a><strong>.</strong></td><td></td><td><a href="references/ui-editor/">ui-editor</a></td></tr><tr><td></td><td>Learn more about our <a href="references/code-editor/"><strong>Code Editor</strong></a><strong>.</strong></td><td></td><td><a href="references/code-editor/">code-editor</a></td></tr><tr><td></td><td>Learn more about our <a href="references/ai-tools/">AI Tools</a><strong>.</strong></td><td></td><td><a href="references/ai-tools/">ai-tools</a></td></tr></tbody></table>
 
 
 
