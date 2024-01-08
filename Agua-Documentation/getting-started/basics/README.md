@@ -28,13 +28,18 @@ layout:
 
 ### [Project structure](project-structure/)
 
-*
+* What is my project strucutre?
+* Wich libriairas am i using? (React)
 
 
 
 ### [Project persistence](project-persistence/)
 
-*
+* How to save my project?
+* Where is my porject saved?
+* How do i manage my versions
+* how to create backups?
+* How can Agua recognize mi manual changes to the project?
 
 
 
@@ -52,7 +57,9 @@ layout:
 
 ### [Design Tokens](design-tokens.md)
 
-*
+
+
+* Variables
 
 
 
@@ -60,13 +67,9 @@ layout:
 
 *
 
-
-
 ### [Importing code](importing-code.md)
 
 *
-
-###
 
 ### [Documenting](documenting.md)
 

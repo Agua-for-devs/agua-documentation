@@ -6,7 +6,7 @@ description: >-
 
 # Components
 
-
+<figure><img src="../.gitbook/assets/giphy.gif" alt=""><figcaption></figcaption></figure>
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Learn more about our:</td><td align="center"> <a href="ui-editor/"><strong>UI Editor</strong></a></td><td><a href="ui-editor/">ui-editor</a></td></tr><tr><td align="center">Learn more about our:</td><td align="center"><a href="code-editor.md"><strong>Code Editor</strong></a></td><td><a href="code-editor.md">code-editor.md</a></td></tr><tr><td align="center">Learn more about our:</td><td align="center"><a href="ai-tools.md"><strong>AI Tools</strong></a></td><td><a href="ai-tools.md">ai-tools.md</a></td></tr></tbody></table>
 
