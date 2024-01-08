@@ -19,52 +19,56 @@ layout:
 
 
 
-### Initial Setup
+### [Initial Setup](initial-setup.md)
 
 * How to create an account?
 * How to create a project?
 
 
 
-### Project structure
+### [Project structure](project-structure/)
 
 *
 
 
 
-### Project persistence
+### [Project persistence](project-persistence/)
 
 *
 
 
 
-### Grid system
+### [Grid system](grid-system/)
 
 *
 
 
 
-### Creating responsive UIs
-
-
-
-### Design Tokens
-
-*
-
-### Creating components
+### [Creating responsive UIs](creating-responsive-uis.md)
 
 *
 
 
 
-### Importing code
+### [Design Tokens](design-tokens.md)
+
+*
+
+
+
+### [Creating components](creating-components.md)
+
+*
+
+
+
+### [Importing code](importing-code.md)
 
 *
 
 ###
 
-### Documenting
+### [Documenting](documenting.md)
 
 *
 

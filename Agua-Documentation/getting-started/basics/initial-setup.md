@@ -1,6 +1,6 @@
 # Initial Setup
 
-## Create an account.
+## Create an account and your firts project.
 
 Create your free account to get started with Agua. After you've set up your account you'll be able to create as many projects as you like.
 
