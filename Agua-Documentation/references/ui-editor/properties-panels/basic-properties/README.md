@@ -48,13 +48,3 @@ layout:
 
 
 {% endhint %}
-
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
