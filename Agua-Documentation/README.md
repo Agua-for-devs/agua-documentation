@@ -51,7 +51,7 @@ Use your components to update an create new responsive user interfaces. Stylize 
 
 {% tabs %}
 {% tab title="Code Generator" %}
-All the interfaces you created in our UI editor, are automatically exported into [clean React code](references/code-editor/).
+All the interfaces you created in our UI editor, are automatically exported into [clean React code](references/code-editor.md).
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_Code.png" alt="Code Generator"><figcaption></figcaption></figure>
 {% endtab %}
@@ -61,7 +61,7 @@ All the interfaces you created in our UI editor, are automatically exported into
 
 {% tabs %}
 {% tab title="AI" %}
-Use our [AI tools](references/ai-tools/) to document components, find errors, explain your code to your team, and generate unit tests.
+Use our [AI tools](references/ai-tools.md) to document components, find errors, explain your code to your team, and generate unit tests.
 
 <figure><img src=".gitbook/assets/Agua_Apple_Demo_AI.png" alt="AI"><figcaption></figcaption></figure>
 {% endtab %}
@@ -89,7 +89,7 @@ Use our [AI tools](references/ai-tools/) to document components, find errors, ex
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Learn more about <a href="references/components.md"><strong>Components</strong></a></td><td><a href="references/components.md">components.md</a></td></tr><tr><td align="center">Learn more about our <a href="references/ui-editor/"><strong>UI Editor</strong></a></td><td><a href="references/ui-editor/">ui-editor</a></td></tr><tr><td align="center">Learn more about our <a href="references/code-editor/"><strong>Code Editor</strong></a></td><td><a href="references/code-editor/">code-editor</a></td></tr><tr><td align="center">Learn more about our <a href="references/ai-tools/"><strong>AI Tools</strong></a></td><td><a href="references/ai-tools/">ai-tools</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Learn more about <a href="references/components.md"><strong>Components</strong></a></td><td><a href="references/components.md">components.md</a></td></tr><tr><td align="center">Learn more about our <a href="references/ui-editor/"><strong>UI Editor</strong></a></td><td><a href="references/ui-editor/">ui-editor</a></td></tr><tr><td align="center">Learn more about our <a href="references/code-editor.md"><strong>Code Editor</strong></a></td><td><a href="references/code-editor.md">code-editor.md</a></td></tr><tr><td align="center">Learn more about our <a href="references/ai-tools.md"><strong>AI Tools</strong></a></td><td><a href="references/ai-tools.md">ai-tools.md</a></td></tr></tbody></table>
 
 
 

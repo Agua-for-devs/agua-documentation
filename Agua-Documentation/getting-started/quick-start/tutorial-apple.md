@@ -12,9 +12,6 @@ description: Discover what can be done in Agua!
 {% endtab %}
 
 {% tab title="Phone" %}
-<figure><img src="../../.gitbook/assets/Agua_Apple_Demo_Phone.jpg" alt=""><figcaption></figcaption></figure>
+
 {% endtab %}
 {% endtabs %}
-
-\
-\

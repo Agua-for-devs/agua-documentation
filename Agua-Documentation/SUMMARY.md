@@ -65,10 +65,8 @@
     * [Text](references/ui-editor/properties-panels/text.md)
   * [ToolBar](references/ui-editor/toolbar.md)
   * [Contextual Panel](references/ui-editor/contextual-panel.md)
-* [Code Editor](references/code-editor/README.md)
-  * [Page 3](references/code-editor/page-3.md)
-* [AI Tools](references/ai-tools/README.md)
-  * [Page 4](references/ai-tools/page-4.md)
+* [Code Editor](references/code-editor.md)
+* [AI Tools](references/ai-tools.md)
 
 ## Help and Community
 
