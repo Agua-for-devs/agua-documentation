@@ -6,7 +6,6 @@
 
 * [Quick Start](getting-started/quick-start/README.md)
   * [Tutorial: AirBnb](getting-started/quick-start/tutorial-airbnb.md)
-  * [Thinking in Agua](getting-started/quick-start/thinking-in-agua.md)
   * [Tutorial: Apple](getting-started/quick-start/tutorial-apple.md)
   * [Platform tour](getting-started/quick-start/platform-tour/README.md)
     * [UI Editor](getting-started/quick-start/platform-tour/ui-editor/README.md)
@@ -20,6 +19,7 @@
       * [8. Component Preview](getting-started/quick-start/platform-tour/ui-editor/8.-component-preview.md)
     * [Code Editor](getting-started/quick-start/platform-tour/code-editor.md)
     * [Settings](getting-started/quick-start/platform-tour/settings.md)
+  * [Thinking in Agua](getting-started/quick-start/thinking-in-agua.md)
 * [Basics](getting-started/basics/README.md)
   * [Initial Setup](getting-started/basics/initial-setup.md)
   * [Project structure](getting-started/basics/project-structure/README.md)
