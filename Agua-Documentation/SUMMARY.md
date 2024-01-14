@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Quick Start](getting-started/quick-start/README.md)
-  * [Tutorial: AirBnb](getting-started/quick-start/tutorial-airbnb.md)
+  * [Tutorial: Creating AirBnb](getting-started/quick-start/tutorial-creating-airbnb.md)
   * [Tutorial: Apple](getting-started/quick-start/tutorial-apple.md)
   * [Platform tour](getting-started/quick-start/platform-tour/README.md)
     * [UI Editor](getting-started/quick-start/platform-tour/ui-editor/README.md)
