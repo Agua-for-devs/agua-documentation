@@ -18,7 +18,7 @@ In this tutorial, you’ll build a the front-end the Airbnb marketplace UI.  You
 {% endtab %}
 
 {% tab title="Second Tab" %}
-
+<figure><img src="../../.gitbook/assets/Diseño sin títul8o.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
