@@ -10,15 +10,19 @@ In this tutorial, you’ll build a the front-end the Airbnb marketplace UI.  You
 
 {% embed url="https://airbnb-demo.agua.tools" %}
 
-
+### 1.1 Desktop
 
 {% tabs %}
-{% tab title="First Tab" %}
-<figure><img src="../../.gitbook/assets/Diseño sin título.gif" alt=""><figcaption></figcaption></figure>
+{% tab title="Home Tour" %}
+<figure><img src="../../.gitbook/assets/desktop_home_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Second Tab" %}
-<figure><img src="../../.gitbook/assets/Diseño sin títul8o.gif" alt=""><figcaption></figcaption></figure>
+{% tab title="Stay Tour" %}
+<figure><img src="../../.gitbook/assets/desktop_stay_1_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Stay's photos Tour" %}
+<figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
