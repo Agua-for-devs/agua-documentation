@@ -21,7 +21,7 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 
 {% embed url="https://airbnb-demo.agua.tools" %}
 
-### 1.1 Desktop
+### 1.1. Desktop
 
 {% tabs %}
 {% tab title="Home Tour" %}
@@ -36,6 +36,26 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 <figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+
+
+### 1.2. Mobile
+
+{% tabs %}
+{% tab title="Home Tour" %}
+<figure><img src="../../.gitbook/assets/mobile_home_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Stay Tour" %}
+<figure><img src="../../.gitbook/assets/mobile_stay_1_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Stay's photos Tour" %}
+<figure><img src="../../.gitbook/assets/mobile_stay_1_photos_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
