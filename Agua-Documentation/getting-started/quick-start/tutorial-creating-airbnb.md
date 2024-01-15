@@ -1,12 +1,23 @@
 ---
 description: Discover what can be done in Agua!
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tutorial: Creating AirBnb
 
 In this tutorial, you’ll build a the front-end the Airbnb marketplace UI.  You will replicate Airbnbs homepage for a user searching for a cabin in New York. You will create also the main info page of a particular cabin, and a separated page for all its pictures. The interface is built responsive and with a component design approach.&#x20;
 
-## 1. Demo Tour tour.&#x20;
+## 1. Demo Tour&#x20;
 
 {% embed url="https://airbnb-demo.agua.tools" %}
 
