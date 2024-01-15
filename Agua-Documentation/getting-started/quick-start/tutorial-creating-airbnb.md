@@ -15,7 +15,7 @@ layout:
 
 # Tutorial: Creating AirBnb
 
-In this tutorial, you’ll build a the front-end the Airbnb marketplace UI.  You will replicate Airbnbs homepage for a user searching for a cabin in New York. You will create also the main info page of a particular cabin, and a separated page for all its pictures. The interface is built responsive and with a component design approach.&#x20;
+In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace UI**](https://www.airbnb.com/)**.**  You will replicate Airbnb's homepage for a user searching for a cabin in New York. You will create also the main info page of a particular cabin, and a separated page for all its photos. The interface is built responsive and uses a component design approach.&#x20;
 
 ## 1. Demo Tour&#x20;
 
