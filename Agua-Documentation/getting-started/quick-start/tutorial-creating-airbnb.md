@@ -25,33 +25,31 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 
 {% tabs %}
 {% tab title="Desktop" %}
-<figure><img src="../../.gitbook/assets/desktop_home_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tablet" %}
-<figure><img src="../../.gitbook/assets/tablet_home_tour.gif" alt="" width="375"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Phone" %}
-<figure><img src="../../.gitbook/assets/mobile_home_tour.gif" alt="" width="250"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mobile_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
 
 ### 1.2. Stay Tour
 
 {% tabs %}
 {% tab title="Desktop" %}
-<figure><img src="../../.gitbook/assets/desktop_stay_1_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tablet" %}
-<figure><img src="../../.gitbook/assets/tablet_stay_1_tour.gif" alt="" width="375"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Phone" %}
-<figure><img src="../../.gitbook/assets/mobile_stay_1_tour (1).gif" alt="" width="250"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mobile_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -61,15 +59,15 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 
 {% tabs %}
 {% tab title="Desktop" %}
-<figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tablet" %}
-<figure><img src="../../.gitbook/assets/tablet_stay_1_photos_tour.gif" alt="" width="375"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Mobile" %}
-<figure><img src="../../.gitbook/assets/mobile_stay_1_photos_tour.gif" alt="" width="250"><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mobile_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
