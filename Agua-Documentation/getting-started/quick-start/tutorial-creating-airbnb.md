@@ -40,7 +40,7 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 * [Scrollable (overflow)](../../references/ui-editor/properties-panels/basic-properties/style.md#scrollable-overflow)
 * [Background](../../references/ui-editor/properties-panels/basic-properties/style.md#background)
 * [Padding](../../references/ui-editor/properties-panels/basic-properties/style.md#padding)
-* [Margin](../../references/ui-editor/properties-panels/basic-properties/style.md#margin)
+*
 
 
 
