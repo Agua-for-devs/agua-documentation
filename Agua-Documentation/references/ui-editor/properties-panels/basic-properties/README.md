@@ -21,17 +21,17 @@ layout:
 
 ### Style
 
-* [**Variant**](style.md#variant)
-* [**Classes**](style.md#classes)
-* [**Size Units**](style.md#size-units)
-* [**Visibility**](style.md#visibility)
-* [**Cursor**](style.md#cursor)
-* [**Alignment**](style.md#alignment)
-* [**Orientation (flex-direction)**](style.md#orientation-flex-direction)
-* [**Scrollable (overflow)**](style.md#scrollable-overflow)
-* [**Background**](style.md#background)
-* [**Padding**](style.md#padding)
-* [**Margin**](style.md#margin)
+1. [**Variant**](style.md#variant)
+2. [**Classes**](style.md#classes)
+3. [**Size Units**](style.md#size-units)
+4. [**Visibility**](style.md#visibility)
+5. [**Cursor**](style.md#cursor)
+6. [**Alignment**](style.md#alignment)
+7. [**Orientation (flex-direction)**](style.md#orientation-flex-direction)
+8. [**Scrollable (overflow)**](style.md#scrollable-overflow)
+9. [**Background**](style.md#background)
+10. [**Padding**](style.md#padding)
+11. [**Margin**](style.md#margin)
 
 
 
@@ -43,7 +43,7 @@ layout:
 
 ### CSS
 
-* [**Animation**](css.md#animation)
-* [**Custom CSS**](css.md#custom-css)
+1. [**Animation**](css.md#animation)
+2. [**Custom CSS**](css.md#custom-css)
 {% endhint %}
 

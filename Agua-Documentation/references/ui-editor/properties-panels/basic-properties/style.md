@@ -1,6 +1,8 @@
 # Style
 
-## Variant
+
+
+## 1. Variant
 
 Defines different versions of a component or set of elements, that can be reused with slight variations in appearance, behavior, or functionality.
 
@@ -8,7 +10,9 @@ Defines different versions of a component or set of elements, that can be reused
 
 
 
-## Classes
+
+
+## 2. Classes
 
 Defines an object's characteristics. Class is a template definition of an object's properties and methods. [\["\]](https://developer.mozilla.org/en-US/docs/Glossary/Class)\
 \
@@ -18,9 +22,13 @@ Out of the current state of an element, new classes can be created with particul
 
 
 
-## Size Units
 
-### Fixed
+
+## 3. Size Units
+
+
+
+### 3.1. Fixed
 
 {% tabs %}
 {% tab title="Size-Wrap" %}
@@ -44,7 +52,9 @@ _Represents a percentage of the height of the viewport's initial containing bloc
 
 _Represents a percentage of the width or height of an element's parent object._ [\["\]](https://developer.mozilla.org/en-US/docs/Web/CSS/percentage)
 
-### Wrap
+
+
+### 3.2. Wrap
 
 {% tabs %}
 {% tab title="Size-Wrap" %}
@@ -54,7 +64,9 @@ _Represents a percentage of the width or height of an element's parent object._ 
 
 _Behaves as_ `fit-content(stretch)`_. This means that the box size  is calculated based on the content size, while it also considers the maximum and minimum sizes defined for the content​._ [\["\]](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content)
 
-### Fill
+
+
+### 3.3. Fill
 
 {% tabs %}
 {% tab title="Size-Fill" %}
@@ -68,7 +80,9 @@ _Behaves as_ `fit-content(stretch)`_. This means that the box size  is calculate
 
 
 
-## Visibility
+
+
+## 4. Visibility
 
 {% tabs %}
 {% tab title="Visibility" %}
@@ -82,7 +96,9 @@ _Behaves as_ `display: none;`. _Turns off the display of an element so that it h
 
 
 
-## Cursor
+
+
+## 5. Cursor
 
 {% tabs %}
 {% tab title="Cursor-Pointer" %}
@@ -97,7 +113,9 @@ _Behaves as_ `display: none;`_. The cursor is a pointer that indicates a link. T
 
 
 
-## Alignment
+
+
+## 6. Alignment
 
 {% tabs %}
 {% tab title="Alignment" %}
@@ -107,7 +125,9 @@ _Behaves as_ `display: none;`_. The cursor is a pointer that indicates a link. T
 
 Sets the distribution of space between and around content items along a [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_flexible\_box\_layout)'s cross-axis.
 
-### Main Axis
+
+
+### 6.1. Main Axis
 
 #### Main Axis start:
 
@@ -125,7 +145,9 @@ Sets to `justify-content: flex-end;`. [\["\]](https://developer.mozilla.org/en-U
 
 Sets to `justify-content: space-between;`. [\["\]](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content#space-between)
 
-### Cross Axis
+
+
+### 6.2. Cross Axis
 
 #### Cross Axis start:
 
@@ -147,7 +169,9 @@ Sets to `align-items: space-between;`. [\["\]](https://developer.mozilla.org/en-
 
 
 
-## Orientation (flex-direction)
+
+
+## 7. Orientation (flex-direction)
 
 {% tabs %}
 {% tab title="Orientation (flex-direction)" %}
@@ -161,7 +185,9 @@ _Defaults to_ `flex-direction: column;`_.  Can also be set to_ `flex-direction: 
 
 
 
-## Scrollable (overflow)
+
+
+## 8. Scrollable (overflow)
 
 {% tabs %}
 {% tab title="Scrollable (overflow)" %}
@@ -175,13 +201,15 @@ Sets to `overflow: scroll;`. Overflow content is clipped at the element's paddin
 
 
 
-## Background
 
-### Transparent
+
+## 9. Background
+
+### 9.1. Transparent
 
 _Defaults to_ `background-color: transparent;`.
 
-### Fill
+### 9.2. Fill
 
 {% tabs %}
 {% tab title="Background-Fill" %}
@@ -197,7 +225,7 @@ Can also be set to a Linear Gradient:
 
 `background:linear-gradient(deg, rgb(,,) 0%,rgb(,,) 0%,rgb(,,) 0%);`
 
-### Image
+### 9.3. Image
 
 Sets one background image on an element. it can can be either in PNG, JPEG, or JPG format.
 
@@ -205,7 +233,7 @@ Sets one background image on an element. it can can be either in PNG, JPEG, or J
 
 
 
-## Padding
+## 10. Padding
 
 {% tabs %}
 {% tab title="Padding" %}
@@ -219,7 +247,7 @@ Creates extra space _within_ an element. [\["\]](https://developer.mozilla.org/e
 
 
 
-## Margin
+## 11. Margin
 
 {% tabs %}
 {% tab title="Margin" %}
