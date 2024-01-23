@@ -21,7 +21,7 @@ Agua is the **free** React Toolkit for front-end developers. You can import, man
 
 ## Quick Start
 
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Start building now!</strong><br></td><td><a href="getting-started/quick-start/tutorial-creating-airbnb.md">tutorial-creating-airbnb.md</a></td></tr><tr><td align="center"><strong>Learn our Basics!</strong></td><td><a href="getting-started/basics/">basics</a></td></tr><tr><td align="center"><strong>Tour our Platform!</strong></td><td><a href="getting-started/quick-start/platform-tour/">platform-tour</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Start building now!</strong><br></td><td><a href="getting-started/quick-start/tutorial-creating-airbnb/">tutorial-creating-airbnb</a></td></tr><tr><td align="center"><strong>Learn our Basics!</strong></td><td><a href="getting-started/basics/">basics</a></td></tr><tr><td align="center"><strong>Tour our Platform!</strong></td><td><a href="getting-started/quick-start/platform-tour/">platform-tour</a></td></tr></tbody></table>
 
 
 
