@@ -54,10 +54,10 @@
   * [Screens Panel](references/ui-editor/screens-panel.md)
   * [Elements Tree](references/ui-editor/elements-tree.md)
   * [Properties Panels](references/ui-editor/properties-panels/README.md)
-    * [Basic Properties](references/ui-editor/properties-panels/basic-properties/README.md)
-      * [Style](references/ui-editor/properties-panels/basic-properties/style.md)
-      * [Events](references/ui-editor/properties-panels/basic-properties/events.md)
-      * [CSS](references/ui-editor/properties-panels/basic-properties/css.md)
+    * [Style](references/ui-editor/properties-panels/style.md)
+    * [Events](references/ui-editor/properties-panels/events.md)
+    * [CSS](references/ui-editor/properties-panels/css.md)
+    * [Basic Properties](references/ui-editor/properties-panels/basic-properties.md)
     * [Screen](references/ui-editor/properties-panels/screen.md)
     * [Div](references/ui-editor/properties-panels/div.md)
     * [Media](references/ui-editor/properties-panels/media.md)
@@ -74,3 +74,7 @@
 * [Support](https://wa.me/12396883277)
 * [Latam Community](https://chat.whatsapp.com/B5fArEa3FXo18cuw18h4eG)
 * [Global Community](https://discord.com/invite/hqgEhc8VFN)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)

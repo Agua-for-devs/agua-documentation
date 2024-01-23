@@ -10,15 +10,15 @@
 
 
 
-### [Alignment](basic-properties/#alignment)
+### [Alignment](basic-properties.md#alignment)
 
-### [Orientation (flex-direction)](basic-properties/#orientation-flex-direction)
+### [Orientation (flex-direction)](basic-properties.md#orientation-flex-direction)
 
-### [Scrollable (overflow)](basic-properties/#scrollable-overflow)
+### [Scrollable (overflow)](basic-properties.md#scrollable-overflow)
 
-### [Background Color](basic-properties/#background-color)
+### [Background Color](basic-properties.md#background-color)
 
-### [Padding](basic-properties/#padding)
+### [Padding](basic-properties.md#padding)
 
 ## SEO
 

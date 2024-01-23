@@ -32,7 +32,7 @@ Out of the current state of an element, new classes can be created with particul
 
 {% tabs %}
 {% tab title="Size-Wrap" %}
-<figure><img src="../../../../.gitbook/assets/Change_size_fixed-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Change_size_fixed-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -58,7 +58,7 @@ _Represents a percentage of the width or height of an element's parent object._ 
 
 {% tabs %}
 {% tab title="Size-Wrap" %}
-<figure><img src="../../../../.gitbook/assets/Change_size_wrap-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Change_size_wrap-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ _Behaves as_ `fit-content(stretch)`_. This means that the box size  is calculate
 
 {% tabs %}
 {% tab title="Size-Fill" %}
-<figure><img src="../../../../.gitbook/assets/Change_size_fill-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Change_size_fill-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -86,7 +86,7 @@ _Behaves as_ `fit-content(stretch)`_. This means that the box size  is calculate
 
 {% tabs %}
 {% tab title="Visibility" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_visibility-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_visibility-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -102,7 +102,7 @@ _Behaves as_ `display: none;`. _Turns off the display of an element so that it h
 
 {% tabs %}
 {% tab title="Cursor-Pointer" %}
-<figure><img src="../../../../.gitbook/assets/Select_pointer-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Select_pointer-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -119,7 +119,7 @@ _Behaves as_ `display: none;`_. The cursor is a pointer that indicates a link. T
 
 {% tabs %}
 {% tab title="Alignment" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_alingment-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_alingment-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -175,7 +175,7 @@ Sets to `align-items: space-between;`. [\["\]](https://developer.mozilla.org/en-
 
 {% tabs %}
 {% tab title="Orientation (flex-direction)" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_orientation-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_orientation-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -191,7 +191,7 @@ _Defaults to_ `flex-direction: column;`_.  Can also be set to_ `flex-direction: 
 
 {% tabs %}
 {% tab title="Scrollable (overflow)" %}
-<figure><img src="../../../../.gitbook/assets/Select_scrollable-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Select_scrollable-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -213,7 +213,7 @@ _Defaults to_ `background-color: transparent;`.
 
 {% tabs %}
 {% tab title="Background-Fill" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_border_color-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_border_color-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -237,7 +237,7 @@ Sets one background image on an element. it can can be either in PNG, JPEG, or J
 
 {% tabs %}
 {% tab title="Padding" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_padding-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_padding-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -251,7 +251,7 @@ Creates extra space _within_ an element. [\["\]](https://developer.mozilla.org/e
 
 {% tabs %}
 {% tab title="Margin" %}
-<figure><img src="../../../../.gitbook/assets/Adjust_margin-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adjust_margin-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

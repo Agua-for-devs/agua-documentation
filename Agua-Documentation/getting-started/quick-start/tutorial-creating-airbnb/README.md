@@ -30,30 +30,30 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 
 ### Grid
 
-* [Variant](../../../references/ui-editor/properties-panels/basic-properties/style.md#variant)
-* [Classes](../../../references/ui-editor/properties-panels/basic-properties/style.md#classes)
-* [Size Units](../../../references/ui-editor/properties-panels/basic-properties/style.md#size-units)
-* [Visibility](../../../references/ui-editor/properties-panels/basic-properties/style.md#visibility)
-* [Cursor](../../../references/ui-editor/properties-panels/basic-properties/style.md#cursor)
-* [Alignment](../../../references/ui-editor/properties-panels/basic-properties/style.md#alignment)
-* [Orientation (flex-direction)](../../../references/ui-editor/properties-panels/basic-properties/style.md#orientation-flex-direction)
-* [Scrollable (overflow)](../../../references/ui-editor/properties-panels/basic-properties/style.md#scrollable-overflow)
-* [Background](../../../references/ui-editor/properties-panels/basic-properties/style.md#background)
-* [Padding](../../../references/ui-editor/properties-panels/basic-properties/style.md#padding)
+* [Variant](../../../references/ui-editor/properties-panels/style.md#variant)
+* [Classes](../../../references/ui-editor/properties-panels/style.md#classes)
+* [Size Units](../../../references/ui-editor/properties-panels/style.md#size-units)
+* [Visibility](../../../references/ui-editor/properties-panels/style.md#visibility)
+* [Cursor](../../../references/ui-editor/properties-panels/style.md#cursor)
+* [Alignment](../../../references/ui-editor/properties-panels/style.md#alignment)
+* [Orientation (flex-direction)](../../../references/ui-editor/properties-panels/style.md#orientation-flex-direction)
+* [Scrollable (overflow)](../../../references/ui-editor/properties-panels/style.md#scrollable-overflow)
+* [Background](../../../references/ui-editor/properties-panels/style.md#background)
+* [Padding](../../../references/ui-editor/properties-panels/style.md#padding)
 *
 
 
 
 ### Header
 
-* [On click go to](../../../references/ui-editor/properties-panels/basic-properties/events.md#on-click-go-to)
+* [On click go to](../../../references/ui-editor/properties-panels/events.md#on-click-go-to)
 
 
 
 ### Body
 
-* [Animation](../../../references/ui-editor/properties-panels/basic-properties/css.md#animation)
-* [Custom CSS](../../../references/ui-editor/properties-panels/basic-properties/css.md#custom-css)
+* [Animation](../../../references/ui-editor/properties-panels/css.md#animation)
+* [Custom CSS](../../../references/ui-editor/properties-panels/css.md#custom-css)
 
 
 

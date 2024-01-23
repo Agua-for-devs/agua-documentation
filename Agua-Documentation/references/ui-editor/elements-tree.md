@@ -1,6 +1,11 @@
 # Elements Tree
 
-### Create new Elements
+## 1. How to create new elements?
+
+* How to create a Div?
+* How to create a Text?
+* How to create Media?
+* &#x20;How to create an Icon?
 
 {% tabs %}
 {% tab title="Elements" %}
@@ -12,7 +17,12 @@
 
 
 
-### Define Hierarchies
+
+
+## 2. How to define hierarchies?
+
+* How to change the elements order?
+* How to define parent and child elements?
 
 {% tabs %}
 {% tab title="Hierarchies" %}
@@ -21,4 +31,3 @@
 {% endtabs %}
 
 ***
-

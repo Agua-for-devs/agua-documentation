@@ -1,59 +1,50 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # Basic Properties
 
-## Style
+{% hint style="info" %}
+## You will learn:
 
-### Variant
 
-### Classes
 
-### Size Units
+### Style
 
-#### Wrap
+1. [**Variant**](style.md#variant)
+2. [**Classes**](style.md#classes)
+3. [**Size Units**](style.md#size-units)
+4. [**Visibility**](style.md#visibility)
+5. [**Cursor**](style.md#cursor)
+6. [**Alignment**](style.md#alignment)
+7. [**Orientation (flex-direction)**](style.md#orientation-flex-direction)
+8. [**Scrollable (overflow)**](style.md#scrollable-overflow)
+9. [**Background**](style.md#background)
+10. [**Padding**](style.md#padding)
+11. [**Margin**](style.md#margin)
 
-#### Fill
 
-#### Fixed
 
-px
+### Events
 
-[vw](https://developer.mozilla.org/en-US/docs/Web/CSS/length#vw)
+* [**On click go to**](events.md#on-click-go-to)
 
-Represents a percentage of the width of the viewport's initial [containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing\_block). `1vw` is 1% of the viewport width. For example, if the viewport width is `800px`, then a value of `50vw` on a property will be `400px`.
 
-[vh](https://developer.mozilla.org/en-US/docs/Web/CSS/length#vh)
 
-"Represents a percentage of the height of the viewport's initial containing block. `1vh` is 1% of the viewport height. For example, if the viewport height is `300px`, then a value of `70vh` on a property will be `210px`."
+### CSS
 
-%
+1. [**Animation**](css.md#animation)
+2. [**Custom CSS**](css.md#custom-css)
+{% endhint %}
 
-### Visibility
-
-### Cursor
-
-### Alignment
-
-### Orientation (flex-direction)
-
-### Scrollable (overflow)
-
-### Background Color
-
-### Padding
-
-### Margin
-
-## Events
-
-### On click go to
-
-## CSS
-
-### Animation
-
-### Custom CSS
-
-#### Custom Class
-
-#### Code Editor
-
-####
+svs

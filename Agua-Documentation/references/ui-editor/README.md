@@ -23,7 +23,7 @@ description: >-
 * How to create a Text?
 * How to create a Media?
 * How to create an Icon?
-* How to change the Hierarchies?
+* How to define hierarchies?
 * How to organize the Elements?
 
 
