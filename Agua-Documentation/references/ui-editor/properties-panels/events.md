@@ -1,3 +1,2 @@
-# Events
+# Basic Events
 
-## On click go to

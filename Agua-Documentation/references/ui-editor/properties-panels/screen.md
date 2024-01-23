@@ -2,27 +2,51 @@
 
 ## Style
 
-### HTML Tag
+### 1. HTML Tag
+
+***
 
 
 
-### URL
+### 2. URL
+
+***
 
 
 
-### [Alignment](basic-properties.md#alignment)
+### 3. [Alignment](broken-reference)
 
-### [Orientation (flex-direction)](basic-properties.md#orientation-flex-direction)
+***
 
-### [Scrollable (overflow)](basic-properties.md#scrollable-overflow)
 
-### [Background Color](basic-properties.md#background-color)
 
-### [Padding](basic-properties.md#padding)
+### 4. [Orientation (flex-direction)](broken-reference)
+
+***
+
+
+
+### 5. [Scrollable (overflow)](broken-reference)
+
+***
+
+
+
+### 6. [Background Color](broken-reference)
+
+***
+
+
+
+### 7. [Padding](broken-reference)
+
+***
+
+
 
 ## SEO
 
-### Meta Tags
+### 8. Meta Tags
 
 #### Title
 
@@ -35,3 +59,5 @@
 #### Canonical
 
 #### Robots
+
+***

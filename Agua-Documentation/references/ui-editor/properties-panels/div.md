@@ -1,10 +1,36 @@
 # Div
 
-## Style
+## 1. Create Component
 
-### HTML Tag
+***
 
-### Position
+
+
+## 2. HTML Tag
+
+***
+
+
+
+## 3. Vairant
+
+***
+
+
+
+## 4. Classes
+
+***
+
+
+
+## 5. Position
+
+***
+
+
+
+## 6. Size
 
 ### Width
 
@@ -20,7 +46,27 @@ Max Height
 
 ***
 
-### Flex Wrap
+
+
+## 7. Visibility
+
+***
+
+
+
+## 8. Cursor
+
+***
+
+
+
+## 9. Alignment
+
+***
+
+
+
+## 12. Flex Wrap
 
 {% tabs %}
 {% tab title="Flex Wrap" %}
@@ -30,7 +76,9 @@ Max Height
 
 ***
 
-## Borders
+
+
+## 16. Borders
 
 {% tabs %}
 {% tab title="Borders" %}
@@ -39,6 +87,20 @@ Max Height
 {% endtabs %}
 
 ***
+
+
+
+## Radius
+
+{% tabs %}
+{% tab title="Radius" %}
+<figure><img src="../../../.gitbook/assets/Adjust_radius-min.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+***
+
+
 
 ## Shadow
 
@@ -49,12 +111,3 @@ Max Height
 {% endtabs %}
 
 ***
-
-## Radius
-
-{% tabs %}
-{% tab title="Radius" %}
-<figure><img src="../../../.gitbook/assets/Adjust_radius-min.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-

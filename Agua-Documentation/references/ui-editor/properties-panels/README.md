@@ -39,11 +39,12 @@ layout:
 {% endtab %}
 
 {% tab title="Events" %}
-
+* [On click go to](events.md#on-click-go-to)
 {% endtab %}
 
 {% tab title="CSS" %}
-
+* [Animation](css.md#animation)
+* [Custom CSS](css.md#custom-css)
 {% endtab %}
 {% endtabs %}
 
