@@ -58,7 +58,3 @@ Max Height
 {% endtab %}
 {% endtabs %}
 
-## Events
-
-## CSS
-

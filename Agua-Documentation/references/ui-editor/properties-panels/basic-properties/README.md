@@ -47,4 +47,3 @@ layout:
 * [**Custom CSS**](css.md#custom-css)
 {% endhint %}
 
-k

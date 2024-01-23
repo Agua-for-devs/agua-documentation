@@ -4,10 +4,10 @@
 ## You will learn:
 
 * [**Basic Properties**](basic-properties/)
-* [**Screen**](screen.md)
-* [**Div**](div.md)
-* [**Media**](media.md)
-* [**Icon**](icon.md)
-* [**Text**](text.md)
+* [**Screen**](screen.md)[ **Properties**](screen.md)
+* [**Div Properties**](div.md)
+* [**Media**](media.md)[ **Properties**](media.md)
+* [**Icon Properties**](icon.md)
+* [**Text Properties**](text.md)
 {% endhint %}
 
