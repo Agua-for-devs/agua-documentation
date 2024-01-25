@@ -28,36 +28,23 @@ In this tutorial, **you’ll build the front-end of the** [**Airbnb marketplace 
 
 
 
-### Grid
+### Setup the Project
 
-* [Variant](../../../references/ui-editor/properties-panels/style.md#variant)
-* [Classes](../../../references/ui-editor/properties-panels/style.md#classes)
-* [Size Units](../../../references/ui-editor/properties-panels/style.md#size-units)
-* [Visibility](../../../references/ui-editor/properties-panels/style.md#visibility)
-* [Cursor](../../../references/ui-editor/properties-panels/style.md#cursor)
-* [Alignment](../../../references/ui-editor/properties-panels/style.md#alignment)
-* [Orientation (flex-direction)](../../../references/ui-editor/properties-panels/style.md#orientation-flex-direction)
-* [Scrollable (overflow)](../../../references/ui-editor/properties-panels/style.md#scrollable-overflow)
-* [Background](../../../references/ui-editor/properties-panels/style.md#background)
-* [Padding](../../../references/ui-editor/properties-panels/style.md#padding)
-*
+* [Open Project](project-setup.md#open-project)
+* [Review Assets](project-setup.md#review-assets)
+* [Review Sample Texts](project-setup.md#review-sample-texts)
 
 
 
-### Header
+### Create the Home Screen
 
-* [On click go to](../../../references/ui-editor/properties-panels/events.md#on-click-go-to)
+* [Banner](home/1.-banner.md)
+* [Divider](home/2.-divider.md)
 
+#### Header
 
-
-### Body
-
-* [Animation](../../../references/ui-editor/properties-panels/css.md#animation)
-* [Custom CSS](../../../references/ui-editor/properties-panels/css.md#custom-css)
-
-
-
-### Footer
+* [Desktop Menu](home/3.-header/3.1-desktop-menu.md)
+* [Tablet Menu](home/3.-header/3.2-tablet-menu.md)
 
 
 {% endhint %}
