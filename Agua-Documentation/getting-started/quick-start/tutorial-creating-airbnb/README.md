@@ -21,7 +21,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% embed url="https://airbnb-demo.agua.tools" %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Fork our GitHub Repo and build it yourself:</strong></td><td align="center">Access all the required Assets.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo">https://github.com/Agua-for-devs/agua-airbnb-demo</a></td></tr><tr><td align="center"><strong>Explore our finished Agua project:</strong></td><td align="center">See how is done.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo-deploy">https://github.com/Agua-for-devs/agua-airbnb-demo-deploy</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://github.com/Agua-for-devs/agua-airbnb-demo"><strong>Fork our GitHub Repo and build it yourself:</strong></a></td><td align="center">Access all the required Assets.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo">https://github.com/Agua-for-devs/agua-airbnb-demo</a></td></tr><tr><td align="center"><a href="https://github.com/Agua-for-devs/agua-airbnb-demo-deploy"><strong>Explore our finished Agua project:</strong></a></td><td align="center">See how is done.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo-deploy">https://github.com/Agua-for-devs/agua-airbnb-demo-deploy</a></td></tr></tbody></table>
 
 
 
@@ -49,9 +49,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 ## Demo Tour
 
-
-
-### 1.1 Homepage Tour
+### Homepage Tour
 
 {% tabs %}
 {% tab title="Desktop" %}
@@ -67,7 +65,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 {% endtab %}
 {% endtabs %}
 
-### 1.1 Stay Tour
+### Stay Tour
 
 {% tabs %}
 {% tab title="Desktop" %}
@@ -84,8 +82,3 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 {% endtabs %}
 
 ***
-
-
-
-
-
