@@ -1,15 +1,30 @@
-# Thinking in Agua
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Optimizar Airbnb y buenas prácticas
+# Thinking in Agua: Airbnb
 
-Componentes\
-Clases\
-Another file: Archivos de menos lineas:
-
-No usar tantas layers\
-\
-Ejemplos de compración\
-Ejemplo Navabar\
+{% hint style="info" %}
+## You will learn:
 
 
-\
+
+#### How to optimize your Airbnb project:
+
+
+
+* Components.
+* Classes.
+* Divide code in diferent files.
+* Proper use of layers.
+{% endhint %}
