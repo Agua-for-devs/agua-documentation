@@ -5,6 +5,7 @@
 ## Quick Start
 
 * [Tutorial: Creating AirBnb](quick-start/tutorial-creating-airbnb/README.md)
+  * [Screens](quick-start/tutorial-creating-airbnb/screens.md)
   * [Home](quick-start/tutorial-creating-airbnb/home/README.md)
     * [Banner](quick-start/tutorial-creating-airbnb/home/banner.md)
     * [Divider](quick-start/tutorial-creating-airbnb/home/divider.md)
