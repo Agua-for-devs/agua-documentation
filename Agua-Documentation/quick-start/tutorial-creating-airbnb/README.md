@@ -53,15 +53,15 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tabs %}
 {% tab title="Desktop" %}
-<figure><img src="../../../.gitbook/assets/desktop_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tablet" %}
-<figure><img src="../../../.gitbook/assets/tablet_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Phone" %}
-<figure><img src="../../../.gitbook/assets/mobile_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mobile_home_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -69,15 +69,15 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tabs %}
 {% tab title="Desktop" %}
-<figure><img src="../../../.gitbook/assets/desktop_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop_stay_1_photos_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Home">https://airbnb-demo.agua.tools/Home</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Tablet" %}
-<figure><img src="../../../.gitbook/assets/tablet_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1">https://airbnb-demo.agua.tools/Stay1</a></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Phone" %}
-<figure><img src="../../../.gitbook/assets/mobile_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mobile_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -100,15 +100,15 @@ After you have forked and cloned locally our [Demo Repo](https://github.com/Agua
 
 {% tabs %}
 {% tab title="A. Open Project" %}
-<figure><img src="../../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="B. Review Assets" %}
-<figure><img src="../../../.gitbook/assets/Review_assets-min (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Review_assets-min (2).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="C. Review Sample Texts" %}
-<figure><img src="../../../.gitbook/assets/Review_texts-min (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Review_texts-min (2).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

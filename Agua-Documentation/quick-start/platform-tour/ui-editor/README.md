@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="UI Editor" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt="UI editor"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt="UI editor"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -12,7 +12,7 @@
 
 {% tabs %}
 {% tab title="Navigation" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 1.1. [Dashbord](1.-navigation-menu.md#1.1.-dashbord)
 
@@ -38,7 +38,7 @@
 
 {% tabs %}
 {% tab title="Canva" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 2.1 [Desktop](2.-canva.md#2.1.-desktop)
 
@@ -54,7 +54,7 @@
 
 {% tabs %}
 {% tab title="Full View" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 3.1. [Views](3.-toolbar.md#3.1.-views)
 
@@ -74,7 +74,7 @@
 
 {% tabs %}
 {% tab title="Full View" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 4.1 [Create New Screen](4.-screens-panel.md#4.1.-create-new-screen)
 
@@ -88,7 +88,7 @@
 
 {% tabs %}
 {% tab title="Full View" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 5.1. [Elements Bar](5.-elements-tree.md#5.1.-elements-bar)
 
@@ -102,7 +102,7 @@
 
 {% tabs %}
 {% tab title="First Tab" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 6.1. [Basic Properties](6.-properties-panels.md#6.1.-basic-properties)
 
@@ -122,7 +122,7 @@
 
 {% tabs %}
 {% tab title="Full View" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo.png" alt=""><figcaption></figcaption></figure>
 
 7.1. [Themes](7.-contextual-panel.md#7.1.-themes)
 
@@ -136,7 +136,7 @@
 
 {% tabs %}
 {% tab title="Component Canva" %}
-<figure><img src="../../../../.gitbook/assets/Agua_Apple_Demo_Components.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agua_Apple_Demo_Components.png" alt=""><figcaption></figcaption></figure>
 
 8.1 [Canva](8.-component-preview.md#8.1-canva)
 
@@ -150,7 +150,7 @@
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Learn more about <a href="../../../../references/components.md"><strong>Components</strong></a></td><td><a href="../../../../references/components.md">components.md</a></td></tr><tr><td align="center">Learn more about our <a href="../../../../references/ui-editor/"><strong>UI Editor</strong></a></td><td><a href="../../../../references/ui-editor/">ui-editor</a></td></tr><tr><td align="center">Learn more about our <a href="../../../../references/code-editor.md"><strong>Code Editor</strong></a></td><td><a href="../../../../references/code-editor.md">code-editor.md</a></td></tr><tr><td align="center">Learn more about our <a href="../../../../references/ai-tools.md"><strong>AI Tools</strong></a></td><td><a href="../../../../references/ai-tools.md">ai-tools.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Learn more about <a href="../../../references/components.md"><strong>Components</strong></a></td><td><a href="../../../references/components.md">components.md</a></td></tr><tr><td align="center">Learn more about our <a href="../../../references/ui-editor/"><strong>UI Editor</strong></a></td><td><a href="../../../references/ui-editor/">ui-editor</a></td></tr><tr><td align="center">Learn more about our <a href="../../../references/code-editor.md"><strong>Code Editor</strong></a></td><td><a href="../../../references/code-editor.md">code-editor.md</a></td></tr><tr><td align="center">Learn more about our <a href="../../../references/ai-tools.md"><strong>AI Tools</strong></a></td><td><a href="../../../references/ai-tools.md">ai-tools.md</a></td></tr></tbody></table>
 
 
 
@@ -164,7 +164,7 @@ Contact us directly!
 
 Also,
 
-* Check out our [FAQ](../../../../help-and-community/faq.md).
+* Check out our [FAQ](../../../help-and-community/faq.md).
 
 
 
