@@ -16,7 +16,7 @@ description: Build your Home Screen Banner!
 
 `homebanner`
 
-#### **1.2.** Create a T_ext_:&#x20;
+#### **1.2.** Create a _Text_ inside _"_homebanner":&#x20;
 
 `Learn about Guest Favorites, the most loved homes on Airbnb`
 
@@ -25,6 +25,8 @@ description: Build your Home Screen Banner!
 {% endtabs %}
 
 ***
+
+
 
 
 
