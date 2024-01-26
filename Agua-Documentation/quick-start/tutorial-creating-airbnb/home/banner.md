@@ -74,6 +74,8 @@ description: Build your Home Screen Banner!
 
 {% tabs %}
 {% tab title="3." %}
+### `Background` and `Font`.
+
 <figure><img src="../../../.gitbook/assets/Home_banner_3-min (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### 3.1. Set "homebanner" _Background_ to:
