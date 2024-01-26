@@ -1,8 +1,32 @@
-# 2. Divider
+---
+description: Build a divider within your Home Screen!
+---
+
+# Divider
+
+## 1. Style
 
 {% tabs %}
-{% tab title="2.1 Create Divider" %}
+{% tab title="1." %}
+### `Div`, `Size`, and `Background`.
+
 <figure><img src="../../../.gitbook/assets/Divider_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+
+#### **1.1.** Create a _Div_ with the name:
+
+`divider`
+
+#### **1.2.** Set "divider" _Width Size_ to:
+
+`Fill`
+
+#### 1.3. Set "divider" _Height Size_ to:
+
+`1 px`
+
+#### 1.4. Set "homebanner" _Background Color_ to:
+
+`E0E0E0`
 {% endtab %}
 {% endtabs %}
 
@@ -12,9 +36,29 @@
 
 
 
+## 2. Component
+
 {% tabs %}
-{% tab title="2.2 Create Component" %}
+{% tab title="2." %}
+### `Component` and  `Component Preview`.
+
 <figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
+
+#### **2.1.** Select _Create Component._
+
+#### **2.2.** Define the _Component Name:_
+
+`divider`
+
+#### **2.3.** Define if "divider" _is a template:_
+
+`[Unmark]`
+
+#### **2.4.** _Create Component._
+
+#### **2.5.** Open _Contextual Panel._
+
+#### **2.6.** Open "Divider" _Preview._
 {% endtab %}
 {% endtabs %}
 
