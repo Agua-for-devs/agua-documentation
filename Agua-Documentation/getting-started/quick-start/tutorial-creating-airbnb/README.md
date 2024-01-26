@@ -25,19 +25,19 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 
 
-## Index
+## Lessons
 
 {% hint style="info" %}
 ## You will learn:
 
 
 
-### Create the Home Screen
+### 1. Create the Home Screen
 
 * [Banner](home/1.-banner.md)
 * [Divider](home/2.-divider.md)
 
-#### Header
+#### 1.1 Header
 
 * [Desktop Menu](home/3.-header/3.1-desktop-menu.md)
 * [Tablet Menu](home/3.-header/3.2-tablet-menu.md)
@@ -78,6 +78,37 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tab title="Phone" %}
 <figure><img src="../../../.gitbook/assets/mobile_stay_1_tour-min.gif" alt=""><figcaption><p><a href="https://airbnb-demo.agua.tools/Stay1photos">https://airbnb-demo.agua.tools/Stay1photos</a></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+***
+
+
+
+## Project Files
+
+After you have forked and cloned locally our [Demo Repo](https://github.com/Agua-for-devs/agua-airbnb-demo), you will be able to:
+
+\
+[A](./#a.-open-project). Open your new project in [https://editor.agua.app/](https://editor.agua.app/)
+
+[B.](./#b.-review-assets) Review the provided assets or add any additional file.&#x20;
+
+[C.](./#c.-review-sample-texts) Review or update the sample texts used our the [Airbnb Demo Project](https://airbnb-demo.agua.tools/). (Just copy & paste 😉)
+
+
+
+{% tabs %}
+{% tab title="A. Open Project" %}
+<figure><img src="../../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="B. Review Assets" %}
+<figure><img src="../../../.gitbook/assets/Review_assets-min (2).gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="C. Review Sample Texts" %}
+<figure><img src="../../../.gitbook/assets/Review_texts-min (2).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
