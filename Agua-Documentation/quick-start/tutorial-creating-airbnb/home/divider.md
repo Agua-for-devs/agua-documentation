@@ -16,13 +16,11 @@ description: Build a divider within your Home Screen!
 
 `divider`
 
-#### **1.2.** Set "divider" _Width Size_ to:
+#### **1.2.** Set "divider" _Size_ to:
 
-`Fill`
+Width_:_ `Fill`
 
-#### 1.3. Set "divider" _Height Size_ to:
-
-`1 px`
+Height: `1 px`
 
 #### 1.4. Set "homebanner" _Background Color_ to:
 

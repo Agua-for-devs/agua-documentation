@@ -25,15 +25,15 @@ description: Build Airbnb's homepage!
 
 
 
-### 1. [Banner](banner.md).
+### [1. Banner.](banner.md)
 
 
 
-### 2. [Divider](divider.md).
+### [2. Divider.](divider.md)
 
 
 
-### 3. [Header](header/):
+### [3. Header:](header/)
 
 * Desktop Menu
 * Tablet Menu

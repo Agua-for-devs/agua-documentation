@@ -18,7 +18,15 @@
 
 #### **1.3.** Create a "Divider" _Component_ inside _"_homebanner".
 
+#### **1.4.** Set "homebanner" _Size_ to:
 
+Width_:_ `Fill`
+
+Height: `Wrap`
+
+#### **1.5.** Set "homemenu" _Size_ to:
+
+Width_:_ `Fill`
 {% endtab %}
 {% endtabs %}
 
