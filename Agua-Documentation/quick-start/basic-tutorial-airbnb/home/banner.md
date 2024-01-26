@@ -12,11 +12,11 @@ description: Build your Home Screen Banner!
 
 <figure><img src="../../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 
-#### **1.1.** Create a _Div_ with the name:
+### **1.1.** Create a _Div_ with the name:
 
 `homebanner`
 
-#### **1.2.** Create a _Text_ child inside _"_homebanner":&#x20;
+### **1.2.** Create a _Text_ child inside _"_homebanner":&#x20;
 
 `Learn about Guest Favorites, the most loved homes on Airbnb`
 {% endtab %}
