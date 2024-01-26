@@ -105,6 +105,8 @@ After you have forked and cloned locally our [Demo Repo](https://github.com/Agua
 {% tabs %}
 {% tab title="A. Open Project" %}
 <figure><img src="../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
+
+You can also follow our [Initial Setup](../../daily-use/basics/initial-setup.md) guide in the DAILY USE section.
 {% endtab %}
 
 {% tab title="B. Review Assets" %}
