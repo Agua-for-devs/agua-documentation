@@ -23,6 +23,8 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="https://github.com/Agua-for-devs/agua-airbnb-demo"><strong>Fork our GitHub Repo and build it yourself:</strong></a></td><td align="center">Access all the required Assets.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo">https://github.com/Agua-for-devs/agua-airbnb-demo</a></td></tr><tr><td align="center"><a href="https://github.com/Agua-for-devs/agua-airbnb-demo-deploy"><strong>Explore our finished Agua project:</strong></a></td><td align="center">See how is done.</td><td><a href="https://github.com/Agua-for-devs/agua-airbnb-demo-deploy">https://github.com/Agua-for-devs/agua-airbnb-demo-deploy</a></td></tr></tbody></table>
 
+***
+
 
 
 ## Lessons
@@ -44,6 +46,8 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 
 {% endhint %}
+
+***
 
 
 
