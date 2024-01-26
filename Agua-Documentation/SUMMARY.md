@@ -4,14 +4,15 @@
 
 ## Quick Start
 
-* [Tutorial: Creating AirBnb](quick-start/tutorial-creating-airbnb/README.md)
-  * [Screens](quick-start/tutorial-creating-airbnb/screens.md)
-  * [Home](quick-start/tutorial-creating-airbnb/home/README.md)
-    * [Banner](quick-start/tutorial-creating-airbnb/home/banner.md)
-    * [Divider](quick-start/tutorial-creating-airbnb/home/divider.md)
-    * [Header](quick-start/tutorial-creating-airbnb/home/header/README.md)
-      * [3.1 Desktop Menu](quick-start/tutorial-creating-airbnb/home/header/3.1-desktop-menu.md)
-      * [3.2 Tablet Menu](quick-start/tutorial-creating-airbnb/home/header/3.2-tablet-menu.md)
+* [Basic Tutorial: AirBnb](quick-start/basic-tutorial-airbnb/README.md)
+  * [Screens](quick-start/basic-tutorial-airbnb/screens.md)
+  * [Home](quick-start/basic-tutorial-airbnb/home/README.md)
+    * [Banner](quick-start/basic-tutorial-airbnb/home/banner.md)
+    * [Divider](quick-start/basic-tutorial-airbnb/home/divider.md)
+    * [Header](quick-start/basic-tutorial-airbnb/home/header/README.md)
+      * [3.1 Desktop Menu](quick-start/basic-tutorial-airbnb/home/header/3.1-desktop-menu.md)
+      * [3.2 Tablet Menu](quick-start/basic-tutorial-airbnb/home/header/3.2-tablet-menu.md)
+* [Thinking in Agua: Airbnb](quick-start/thinking-in-agua.md)
 * [Platform tour](quick-start/platform-tour/README.md)
   * [UI Editor](quick-start/platform-tour/ui-editor/README.md)
     * [1. Navigation Menu](quick-start/platform-tour/ui-editor/1.-navigation-menu.md)
@@ -24,7 +25,6 @@
     * [8. Component Preview](quick-start/platform-tour/ui-editor/8.-component-preview.md)
   * [Code Editor](quick-start/platform-tour/code-editor.md)
   * [Settings](quick-start/platform-tour/settings.md)
-* [Thinking in Agua](quick-start/thinking-in-agua.md)
 
 ## Daily Use
 

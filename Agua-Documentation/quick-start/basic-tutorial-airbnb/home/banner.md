@@ -16,11 +16,9 @@ description: Build your Home Screen Banner!
 
 `homebanner`
 
-#### **1.2.** Create a _Text_ inside _"_homebanner":&#x20;
+#### **1.2.** Create a _Text_ child inside _"_homebanner":&#x20;
 
 `Learn about Guest Favorites, the most loved homes on Airbnb`
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -61,8 +59,6 @@ description: Build your Home Screen Banner!
 `Left: 80`
 
 `Right: 80`
-
-
 {% endtab %}
 {% endtabs %}
 
