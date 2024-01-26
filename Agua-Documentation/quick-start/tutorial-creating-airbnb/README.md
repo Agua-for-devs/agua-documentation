@@ -34,15 +34,15 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 
 
-### 1. Create the Home Screen
+### Create the Home Screen
 
-* [Banner](home/1.-banner.md)
-* [Divider](home/2.-divider.md)
+* [Banner](home/banner.md)
+* [Divider](home/divider.md)
 
-#### 1.1 Header
+#### Header
 
-* [Desktop Menu](home/3.-header/3.1-desktop-menu.md)
-* [Tablet Menu](home/3.-header/3.2-tablet-menu.md)
+* [Desktop Menu](home/header/3.1-desktop-menu.md)
+* [Tablet Menu](home/header/3.2-tablet-menu.md)
 
 
 {% endhint %}
