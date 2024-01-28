@@ -6,6 +6,8 @@ description: Build a divider within your Home Screen!
 
 ## 1. Element and Style
 
+{% tabs %}
+{% tab title="1," %}
 ### **1.1.** Create a _Div_ with the name:
 
 > `divider`
@@ -19,6 +21,18 @@ description: Build a divider within your Home Screen!
 #### 1.4. Set "homebanner" _Background Color_ to:
 
 > `E0E0E0`
+
+{% tabs %}
+{% tab title="1. Video" %}
+<figure><img src="../../../.gitbook/assets/Change_canva_views-min.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../../.gitbook/assets/Divider_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 {% tabs %}
 {% tab title="1. GIF" %}
