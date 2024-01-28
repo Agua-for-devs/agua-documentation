@@ -78,7 +78,7 @@ description: Build your Home Screen Banner!
 
 #### 3.1. Set "homebanner" _Background_ to:
 
-`Transparent`
+`Fill`
 
 #### 3.2. Set "homebanner" _Background Color_ to:
 
