@@ -4,23 +4,25 @@ description: Build a divider within your Home Screen!
 
 # Divider
 
+<figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
+
 ## Element and Style
 
 
 
 {% tabs %}
 {% tab title="1," %}
-### **1.1.** Create a _Div_ with the name:
+### **1.1.** New _Div:_
 
-> `divider`
+> **Name:** `divider`
 
-### **1.2.** Set "divider" _Size_ to:
+### **1.2.** "divider" _Size_:
 
 > Width_:_ `Fill`
 >
 > Height: `1 px`
 
-### 1.4. Set "homebanner" _Background Color_ to:
+### 1.4. "homebanner" _Background Color_:
 
 > `E0E0E0`
 
