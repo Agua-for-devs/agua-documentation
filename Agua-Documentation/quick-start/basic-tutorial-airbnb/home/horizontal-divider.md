@@ -6,12 +6,12 @@ description: Build a divider within your Home Screen!
 
 <figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 
-##
-
 ## Element and Style
 
+### Step 1
+
 {% tabs %}
-{% tab title="1," %}
+{% tab title="1." %}
 {% hint style="success" %}
 **You will create a div element:**
 
@@ -38,9 +38,9 @@ description: Build a divider within your Home Screen!
 
 > **Name:** `divider`
 
-#### -Inside the **Element Tree**-
+#### -Inside the _**Element Tree**_-
 
-#### **A. \[Click]** **the Div Icon:**
+#### **A. \[Click]** **the **_**Div Icon**_**:**
 
 * The Icon will turn blue, and your pointer will change.
 
@@ -51,10 +51,12 @@ description: Build a divider within your Home Screen!
 
 #### -Inside the **Properties Panel**-
 
-#### **C. \[Click] and change the default name of the div,** in the top part of the Properties Panel.&#x20;
+#### **C. \[Click] the current name of the Div and type the new one**:
 
 * The new name should be lowercase, without any spaces or special characters.
-* The new name will be updated int he Element Tree.
+* The new name will be updated in the _Element Tree_ after you have \[click] away.
+
+
 
 ### **1.2.** "divider" _Size_:
 
@@ -62,44 +64,80 @@ description: Build a divider within your Home Screen!
 >
 > Height: `1 px`
 
-#### -Inside the **Properties Panel**-
-
-#### **A. \[Click]** **the fill button,** inside the with section_:_
+#### **A. \[Click]** **the **_**Fill**_** button,** inside the Width section_:_
 
 * The horizontal size of the Div will be the `100%` _of the screen._
 
-**B. \[Select]** **the desired size,** inside the height entry inside  of the Height_:_
+**B. \[Type]** **the new size,** into _Height size:_
 
-* The vertical size of the Div will be of `1 px`.
+* You can also change the size value using the _up and down arrows._
+* The default _Size_ for a new Div is Fixed, you do not need to change it..
+* The default _Unit_ for a _Fixed_ size is _Pixels_, you do not need to change it.
 
 ### 1.3. "homebanner" _Background Color_:
 
 > `E0E0E0`
+
+#### **A. \[Click]** **the **_**Background**_** toggle and Select **_**Fill**:_
+
+* Fill allows you to select either a material color or a gradient as background.
+
+**B. \[Click] **_**Background color**_** and** **\[Type]** **the desired color**_:_
+
+* You can type a 6 characters HEX code without the initial #.&#x20;
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Component
 
-
+### Step 2
 
 {% tabs %}
 {% tab title="2." %}
-### **2.1.** _Create Component._
+{% hint style="success" %}
+**You will create a component:**
 
-### **2.2.** Define the _Component Name:_
-
-> `divider`
-
-### **2.3.** Define if "divider" _is a template:_
-
-> `[Unmark]`
+* Reusable across this and other projects.
+* That can be reviewed in isolation in our _Preview Mode_.
+{% endhint %}
 
 {% tabs %}
 {% tab title="1. GIF" %}
 <figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="1. Video" %}
+{% embed url="https://youtu.be/nqD_ujVqrrs" %}
+[https://youtu.be/nqD\_ujVqrrs](https://youtu.be/nqD\_ujVqrrs)
+{% endembed %}
+{% endtab %}
 {% endtabs %}
+
+
+
+### **2.1.** _Create Component._
+
+#### -Inside the **Properties Panel**-
+
+\[Click] the blue "Create a Component" button.&#x20;
+
+### **2.2.** Define the _Component Name:_
+
+> `divider`
+
+#### -Inside the Create Component **Menu**-
+
+\[Type] the _Component_ name.
+
+* The default name provided is the name of the Div.
+* You can use either use lowercase, uppercase, numbers or spaces.
+
+### **2.3.** Define if "divider" _is a template:_
+
+> `[Unmark]`
+
+Do not \[select] the _Is a temple?_ option.
+
+* A component used as a template can be later decomposed and edited.
 {% endtab %}
 {% endtabs %}
