@@ -22,7 +22,7 @@ description: Build a divider within your Home Screen!
 >
 > Height: `1 px`
 
-### 1.4. "homebanner" _Background Color_:
+### 1.3. "homebanner" _Background Color_:
 
 > `E0E0E0`
 
