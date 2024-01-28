@@ -6,16 +6,16 @@ description: Build a divider within your Home Screen!
 
 <figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 
+##
+
 ## Element and Style
-
-
 
 {% tabs %}
 {% tab title="1," %}
 {% hint style="success" %}
 **You will create a div element:**
 
-* With a personalized name
+* With a personalized name.
 * That fills its parent width, and maintain a fixed height.
 * With a set Background Color.
 {% endhint %}
@@ -26,9 +26,13 @@ description: Build a divider within your Home Screen!
 {% endtab %}
 
 {% tab title="1. Video" %}
-<figure><img src="../../../.gitbook/assets/Change_canva_views-min.gif" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/26Nvcf4QFHk" %}
+[https://youtu.be/26Nvcf4QFHk](https://youtu.be/26Nvcf4QFHk)
+{% endembed %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ### **1.1.** New _Div:_
 
