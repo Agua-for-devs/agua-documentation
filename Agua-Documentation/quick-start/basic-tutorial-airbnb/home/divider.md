@@ -34,16 +34,6 @@ description: Build a divider within your Home Screen!
 {% endtab %}
 {% endtabs %}
 
-{% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Divider_1-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="1. Video" %}
-
-{% endtab %}
-{% endtabs %}
-
 ## 2. Component
 
 {% tabs %}
