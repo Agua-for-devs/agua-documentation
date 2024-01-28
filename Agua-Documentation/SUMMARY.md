@@ -8,7 +8,7 @@
   * [Screens](quick-start/basic-tutorial-airbnb/screens.md)
   * [Home](quick-start/basic-tutorial-airbnb/home/README.md)
     * [Banner](quick-start/basic-tutorial-airbnb/home/banner.md)
-    * [Divider](quick-start/basic-tutorial-airbnb/home/divider.md)
+    * [Horizontal Divider](quick-start/basic-tutorial-airbnb/home/horizontal-divider.md)
     * [Header](quick-start/basic-tutorial-airbnb/home/header/README.md)
       * [3.1 Desktop Menu](quick-start/basic-tutorial-airbnb/home/header/3.1-desktop-menu.md)
       * [3.2 Tablet Menu](quick-start/basic-tutorial-airbnb/home/header/3.2-tablet-menu.md)
