@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Tutorial: Creating AirBnb
+# Basic Tutorial: AirBnb
 
 #### In this tutorial, **you’ll build the UI of**  [**Airbnb**](https://www.airbnb.com/)**.**&#x20;
 
@@ -43,9 +43,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 * Banner
 * Divider
 
-
-
-#### 2.1 [Header](home/header/):
+#### 2.1 [Header](home/3.-header.md):
 
 * Desktop Menu
 * Tablet Menu
