@@ -2,7 +2,7 @@
 description: Build a divider within your Home Screen!
 ---
 
-# 2. Horizontal Divider
+# Home | Horizontal Divider
 
 ## Element and Style
 
@@ -20,7 +20,7 @@ description: Build a divider within your Home Screen!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Divider_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Divider_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -32,7 +32,7 @@ description: Build a divider within your Home Screen!
 
 
 
-### **1.1.** New _Div:_
+### **1.1.** New _Div_:
 
 > **Name:** `divider`
 
@@ -68,7 +68,7 @@ description: Build a divider within your Home Screen!
 
 
 
-### **1.2.** "divider" _Size_:
+### **1.2.** Set "divider" _Size_:
 
 > **Width**_:_ `Fill`
 >
@@ -94,7 +94,7 @@ description: Build a divider within your Home Screen!
 
 
 
-### 1.3. "homebanner" _Background Color_:
+### 1.3. Set "homebanner" _Background Color_:
 
 > `E0E0E0`
 
@@ -135,7 +135,7 @@ description: Build a divider within your Home Screen!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Divider_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -147,7 +147,7 @@ description: Build a divider within your Home Screen!
 
 
 
-### **2.1.** _Create Component._
+### **2.1.** _Create Component:_
 
 <details>
 
@@ -161,7 +161,7 @@ description: Build a divider within your Home Screen!
 
 
 
-### **2.2.** Define the _Component Name:_
+### **2.2.** Define _Component Name:_
 
 > `divider`
 
@@ -182,7 +182,7 @@ description: Build a divider within your Home Screen!
 
 ### **2.3.** Define if "divider" _is a template:_
 
-> `[Unmark]`
+> `[unchecked]`
 
 <details>
 

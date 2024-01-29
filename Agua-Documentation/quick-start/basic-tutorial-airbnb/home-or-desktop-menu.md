@@ -2,7 +2,7 @@
 description: Build a desktop oriented menu for your Home Screen!
 ---
 
-# 3.1. Desktop Menu
+# Home | Desktop Menu
 
 ## Structure
 
@@ -16,7 +16,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -26,7 +26,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **1.1.** New child _Div,_ inside _"_homeheader"_:_
+### **1.1.** New child _Div,_ inside _"_homeheader":
 
 > **Name:** `homemenudesktop`
 
@@ -40,7 +40,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **1.2.** New child _Divs,_ inside _"_homemenudesktop"_:_
+### **1.2.** New child _Divs,_ inside _"_homemenudesktop":
 
 > **Name 1 :** `sitemenu`
 >
@@ -88,7 +88,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="2. GIF" %}
-<figure><img src="../../../.gitbook/assets/Home_menu_desktop_1-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home_menu_desktop_1-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. Video" %}
@@ -98,7 +98,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **2.1.**New child _Divs,_ inside _"_sitemenu"_:_
+### **2.1.**New child _Divs,_ inside _"_sitemenu":
 
 > **Name 1:** `sitemenumap`
 >
@@ -148,7 +148,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **2.4.** Set "sitemenu" _Orientation:_
+### **2.4.** Set "sitemenu" _Orientation_:
 
 > `Horizontal`
 
@@ -176,7 +176,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="3. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_2-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="3. Video" %}
@@ -186,7 +186,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **3.1.** New child _Texts,_ inside _"_sitemenumap"_:_
+### **3.1.** New child _Texts,_ inside _"_sitemenumap":
 
 > **Name 1:** `sitemenutext1`
 >
@@ -204,7 +204,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **3.2.** New child _Media,_ inside _"_sitemenulogo"_:_
+### **3.2.** New child _Media,_ inside _"_sitemenulogo":
 
 > **Name:** `sitemenumedia1`
 
@@ -260,7 +260,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **3.6.** New child _Icons,_ inside _"_sitemenumap"_:_
+### **3.6.** New child _Icons,_ inside _"_sitemenumap":
 
 > **Name 1:** `sitemenuicon2`
 >
@@ -290,7 +290,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="4. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_3-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_3-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="4. Video" %}
@@ -348,7 +348,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **4.3.** Set "sitemenu, sitemenumap, and sitemenuusers" _Orientation:_&#x20;
+### **4.3.** Set "sitemenu, sitemenumap, and sitemenuusers" _Orientation_:
 
 > `Horizontal`
 
@@ -376,7 +376,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="5. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_4-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_4-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="5. Video" %}
@@ -442,7 +442,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="6. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_5-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_5-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="6. Video" %}
@@ -498,7 +498,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="7. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_6-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_6-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="7. Video" %}
@@ -508,7 +508,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 7.1. Set "sitemenumedia1" _Image Source:_
+### 7.1. Set "sitemenumedia1" _Image Source_:
 
 > `Assets/Brand/Airbnb_logo.png`
 
@@ -636,7 +636,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="8. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_7-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_7-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="8. Video" %}
@@ -696,7 +696,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="9. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_8-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_8-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="9. Video" %}
@@ -824,7 +824,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="10. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_9-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_9-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="10. Video" %}
@@ -892,7 +892,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="11. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_10-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_10-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="11. Video" %}
@@ -962,7 +962,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="12. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_11-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_11-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="12. Video" %}
@@ -972,7 +972,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **12.1.** New child _Divs,_ inside _"_searchmenu"_:_
+### **12.1.** New child _Divs,_ inside _"_searchmenu":
 
 > **Name 1 :** `searchmenudiv1`
 >
@@ -1024,7 +1024,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 12.4. Set "searchmenu" _Padding_
+### 12.4. Set "searchmenu" _Padding_:
 
 > **Top:** `10`
 >
@@ -1058,7 +1058,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="13. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="13. Video" %}
@@ -1068,7 +1068,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **13.1.** New child _Texts,_ inside _"_searchmenudiv1"_:_
+### **13.1.** New child _Texts,_ inside _"_searchmenudiv1":
 
 > **Name 1 :** `searchmenudiv1text1`
 >
@@ -1084,7 +1084,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **13.2.** New child _Texts,_ inside _"_searchmenudiv2"_:_
+### **13.2.** New child _Texts,_ inside _"_searchmenudiv2":
 
 > **Name 1 :** `searchmenudiv2text1`
 >
@@ -1100,7 +1100,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **13.3.** New child _Texts,_ inside _"_searchmenudiv3"_:_
+### **13.3.** New child _Texts,_ inside _"_searchmenudiv3":
 
 > **Name 1 :** `searchmenudiv3text1`
 >
@@ -1116,7 +1116,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **13.4.** New child _Texts,_ inside _"_searchmenudiv4"_:_
+### **13.4.** New child _Texts,_ inside _"_searchmenudiv4":
 
 > **Name 1 :** `searchmenudiv4text1`
 >
@@ -1132,7 +1132,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **13.5.** New child _Icon,_ inside _"_searchmenudiv5"_:_
+### **13.5.** New child _Icon,_ inside _"_searchmenudiv5":
 
 > **Name :** `searchmenudiv5icon1`
 
@@ -1160,7 +1160,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="13. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="13. Video" %}
@@ -1206,7 +1206,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="15. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="15. Video" %}
@@ -1306,7 +1306,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="16. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="16. Video" %}
@@ -1458,7 +1458,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="17. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="17. Video" %}
@@ -1524,7 +1524,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="18. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_14-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_14-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="18. Video" %}
@@ -1596,7 +1596,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="19. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_14_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_14_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="19. Video" %}
@@ -1648,7 +1648,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="20. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_13-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_13-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="20. Video" %}
@@ -1658,7 +1658,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 20.1. Set "searchmenu" _Border Color_::
+### 20.1. Set "searchmenu" _Border Color_:
 
 > `E0E0E0`
 
@@ -1744,7 +1744,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="21. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="21. Video" %}

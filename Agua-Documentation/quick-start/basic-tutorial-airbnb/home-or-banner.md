@@ -2,7 +2,7 @@
 description: Build your Home Screen Banner!
 ---
 
-# 1. Banner
+# Home | Banner
 
 ## Structure and Elements&#x20;
 
@@ -20,7 +20,7 @@ description: Build your Home Screen Banner!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -30,7 +30,7 @@ description: Build your Home Screen Banner!
 
 
 
-### **1.1.** New _Div:_
+### **1.1.** New _Div_:
 
 > **Name:** `homebanner`
 
@@ -66,13 +66,13 @@ description: Build your Home Screen Banner!
 
 
 
-### **1.2.** New child _Text,_ inside _"_homebanner"_:_
+### **1.2.** New child _Text,_ inside _"_homebanner":
 
 > **Name:** `dividertext1`
 
 <details>
 
-<summary>1<strong>.3. Written steps</strong></summary>
+<summary>1<strong>.2. Written steps</strong></summary>
 
 
 
@@ -106,13 +106,11 @@ description: Build your Home Screen Banner!
 {% tab title="2." %}
 {% hint style="success" %}
 **You will create a Div element:**
-
-*
 {% endhint %}
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -184,13 +182,11 @@ description: Build your Home Screen Banner!
 {% tab title="3." %}
 {% hint style="success" %}
 **You will create a Div element:**
-
-*
 {% endhint %}
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}

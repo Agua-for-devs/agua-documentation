@@ -2,7 +2,7 @@
 description: Build the Header of  your Home Screen!
 ---
 
-# 3. Header
+# Home | Header
 
 ## Structure and Style
 
@@ -16,7 +16,7 @@ description: Build the Header of  your Home Screen!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_header_1-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_header_1-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -26,7 +26,7 @@ description: Build the Header of  your Home Screen!
 
 
 
-### **1.1.** New _Div:_
+### **1.1.** New _Div_:
 
 > **Name:** `homeheader`
 
@@ -40,11 +40,11 @@ description: Build the Header of  your Home Screen!
 
 
 
-### **1.2.** New child _Divs,_ inside _"_homeheader"_:_
+### **1.2.** New child _Divs,_ inside _"_homeheader":
 
-> **Name:** `homemenu`
+> **Name 1:** `homemenu`
 >
-> **Name:** `homenavbar`
+> **Name 2:** `homenavbar`
 
 <details>
 
@@ -56,7 +56,7 @@ description: Build the Header of  your Home Screen!
 
 
 
-#### **1.3.** Create a "Divider" _Component_ inside _"_homebanner".
+### **1.3.** Create a "Divider" _Component_ inside _"_homebanner":
 
 <details>
 
@@ -68,7 +68,7 @@ description: Build the Header of  your Home Screen!
 
 
 
-#### **1.4.** Set "homeheader" _Size_ to:
+### **1.4.** Set "homeheader" _Size_:
 
 > **Width**_:_ `Fill`
 >

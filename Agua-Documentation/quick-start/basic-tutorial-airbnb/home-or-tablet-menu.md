@@ -2,7 +2,7 @@
 description: Build a desktop oriented menu for your Home Screen!
 ---
 
-# 3.2. Tablet Menu
+# Home | Tablet Menu
 
 ## Structure
 
@@ -16,7 +16,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="1. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_1-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_1-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="1. Video" %}
@@ -86,7 +86,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="2. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_2-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_2-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2. Video" %}
@@ -172,7 +172,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="3. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_3-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_3-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="3. Video" %}
@@ -416,7 +416,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="6. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_4-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_4-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="6. Video" %}
@@ -494,7 +494,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="7. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_5-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_5-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="7. Video" %}
@@ -574,7 +574,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="8. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_6-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_6-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="8. Video" %}
@@ -656,7 +656,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="9. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="9. Video" %}
@@ -756,7 +756,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="10. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="10. Video" %}
@@ -850,7 +850,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="11. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_7-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_7-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="11. Video" %}
@@ -920,7 +920,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="12. GIF" %}
-<figure><img src="../../../.gitbook/assets/home_menu_tablet_8-min.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home_menu_tablet_8-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="12. Video" %}
