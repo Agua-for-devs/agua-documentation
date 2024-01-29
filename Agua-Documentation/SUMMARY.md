@@ -5,12 +5,12 @@
 ## Quick Start
 
 * [Basic Tutorial: AirBnb](quick-start/basic-tutorial-airbnb/README.md)
-  * [Screens](quick-start/basic-tutorial-airbnb/screens.md)
-  * [Home | Banner](quick-start/basic-tutorial-airbnb/home-or-banner.md)
-  * [Home | Horizontal Divider](quick-start/basic-tutorial-airbnb/home-or-horizontal-divider.md)
-  * [Home | Header](quick-start/basic-tutorial-airbnb/home-or-header.md)
-  * [Home | Desktop Menu](quick-start/basic-tutorial-airbnb/home-or-desktop-menu.md)
-  * [Home | Tablet Menu](quick-start/basic-tutorial-airbnb/home-or-tablet-menu.md)
+  * [1. Screens](quick-start/basic-tutorial-airbnb/1.-screens.md)
+  * [2. Home | Banner](quick-start/basic-tutorial-airbnb/2.-home-or-banner.md)
+  * [3. Home | Horizontal Divider](quick-start/basic-tutorial-airbnb/3.-home-or-horizontal-divider.md)
+  * [4. Home | Header](quick-start/basic-tutorial-airbnb/4.-home-or-header.md)
+  * [5. Home | Desktop Menu](quick-start/basic-tutorial-airbnb/5.-home-or-desktop-menu.md)
+  * [6. Home | Tablet Menu](quick-start/basic-tutorial-airbnb/6.-home-or-tablet-menu.md)
 * [Thinking in Agua: Airbnb](quick-start/thinking-in-agua.md)
 * [Platform tour](quick-start/platform-tour/README.md)
   * [UI Editor](quick-start/platform-tour/ui-editor/README.md)
