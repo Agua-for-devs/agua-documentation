@@ -4,26 +4,14 @@
 
 ## Quick Start
 
-* [Basic Tutorial: AirBnb](quick-start/basic-tutorial-airbnb/README.md)
-  * [1. Screens](quick-start/basic-tutorial-airbnb/1.-screens.md)
-  * [2. Home | Banner](quick-start/basic-tutorial-airbnb/2.-home-or-banner.md)
-  * [3. Home | Horizontal Divider](quick-start/basic-tutorial-airbnb/3.-home-or-horizontal-divider.md)
-  * [4. Home | Header](quick-start/basic-tutorial-airbnb/4.-home-or-header.md)
-  * [5. Home | Desktop Menu](quick-start/basic-tutorial-airbnb/5.-home-or-desktop-menu.md)
-  * [6. Home | Tablet Menu](quick-start/basic-tutorial-airbnb/6.-home-or-tablet-menu.md)
-* [Thinking in Agua: Airbnb](quick-start/thinking-in-agua.md)
-* [Platform tour](quick-start/platform-tour/README.md)
-  * [UI Editor](quick-start/platform-tour/ui-editor/README.md)
-    * [1. Navigation Menu](quick-start/platform-tour/ui-editor/1.-navigation-menu.md)
-    * [2. Canva](quick-start/platform-tour/ui-editor/2.-canva.md)
-    * [3. ToolBar](quick-start/platform-tour/ui-editor/3.-toolbar.md)
-    * [4. Screens Panel](quick-start/platform-tour/ui-editor/4.-screens-panel.md)
-    * [5. Elements Tree](quick-start/platform-tour/ui-editor/5.-elements-tree.md)
-    * [6. Properties Panels](quick-start/platform-tour/ui-editor/6.-properties-panels.md)
-    * [7. Contextual Panel](quick-start/platform-tour/ui-editor/7.-contextual-panel.md)
-    * [8. Component Preview](quick-start/platform-tour/ui-editor/8.-component-preview.md)
-  * [Code Editor](quick-start/platform-tour/code-editor.md)
-  * [Settings](quick-start/platform-tour/settings.md)
+* [AirBnb: Tutorial](quick-start/airbnb-tutorial/README.md)
+  * [1. Screens](quick-start/airbnb-tutorial/1.-screens.md)
+  * [2. Home | Banner](quick-start/airbnb-tutorial/2.-home-or-banner.md)
+  * [3. Home | Horizontal Divider](quick-start/airbnb-tutorial/3.-home-or-horizontal-divider.md)
+  * [4. Home | Header](quick-start/airbnb-tutorial/4.-home-or-header.md)
+  * [5. Home | Desktop Menu](quick-start/airbnb-tutorial/5.-home-or-desktop-menu.md)
+  * [6. Home | Tablet Menu](quick-start/airbnb-tutorial/6.-home-or-tablet-menu.md)
+* [Airbnb: Thinking in Agua](quick-start/thinking-in-agua.md)
 
 ## Daily Use
 
@@ -56,8 +44,10 @@
 
 ## References
 
-* [Components](references/components.md)
 * [UI Editor](references/ui-editor/README.md)
+  * [Navigation Menu](references/ui-editor/1.-navigation-menu.md)
+  * [Canva](references/ui-editor/canva.md)
+  * [ToolBar](references/ui-editor/3.-toolbar.md)
   * [Screens Panel](references/ui-editor/screens-panel.md)
   * [Elements Tree](references/ui-editor/elements-tree.md)
   * [Properties Panels](references/ui-editor/properties-panels/README.md)
@@ -69,9 +59,9 @@
     * [Media](references/ui-editor/properties-panels/media.md)
     * [Icon](references/ui-editor/properties-panels/icon.md)
     * [Text](references/ui-editor/properties-panels/text.md)
-  * [ToolBar](references/ui-editor/toolbar.md)
   * [Contextual Panel](references/ui-editor/contextual-panel.md)
 * [Code Editor](references/code-editor.md)
+* [Components](references/components.md)
 * [AI Tools](references/ai-tools.md)
 
 ## Help and Community

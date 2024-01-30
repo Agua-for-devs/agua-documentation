@@ -45,35 +45,25 @@ layout:
 
 ### [Grid system](grid-system/)
 
-*
-
-
+###
 
 ### [Creating responsive UIs](creating-responsive-uis.md)
 
-*
-
-
+###
 
 ### [Design Tokens](design-tokens.md)
 
-
-
-* Variables
-
-
+###
 
 ### [Creating components](creating-components.md)
 
-*
+###
 
 ### [Importing code](importing-code.md)
 
-*
+###
 
 ### [Documenting](documenting.md)
-
-*
 
 
 {% endhint %}
