@@ -6,11 +6,11 @@
 
 * [AirBnb: Tutorial](quick-start/airbnb-tutorial/README.md)
   * [1. Screens](quick-start/airbnb-tutorial/1.-screens.md)
-  * [2. Home | Banner](quick-start/airbnb-tutorial/2.-home-or-banner.md)
-  * [3. Home | Horizontal Divider](quick-start/airbnb-tutorial/3.-home-or-horizontal-divider.md)
-  * [4. Home | Header](quick-start/airbnb-tutorial/4.-home-or-header.md)
-  * [5. Home | Desktop Menu](quick-start/airbnb-tutorial/5.-home-or-desktop-menu.md)
-  * [6. Home | Tablet Menu](quick-start/airbnb-tutorial/6.-home-or-tablet-menu.md)
+  * [4. Home: Header](quick-start/airbnb-tutorial/4.-home-header.md)
+  * [2. Header | Banner](quick-start/airbnb-tutorial/2.-header-or-banner.md)
+  * [3. Header | Horizontal Divider](quick-start/airbnb-tutorial/3.-header-or-horizontal-divider.md)
+  * [5. Header | Desktop Menu](quick-start/airbnb-tutorial/5.-header-or-desktop-menu.md)
+  * [6. Header | Tablet Menu](quick-start/airbnb-tutorial/6.-header-or-tablet-menu.md)
 * [Airbnb: Thinking in Agua](quick-start/thinking-in-agua.md)
 
 ## Daily Use
