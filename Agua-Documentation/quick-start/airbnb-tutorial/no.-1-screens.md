@@ -1,4 +1,8 @@
-# 1. Screens
+---
+description: Create the Screen structure of the project
+---
+
+# No. 1: Screens
 
 ## Structure
 
@@ -9,12 +13,12 @@
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/Create_screens-min (2).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="1. Video" %}
 
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../.gitbook/assets/Create_screens-min (2).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -22,7 +26,7 @@
 
 ### **1.1.** Change "Screen" _name_:
 
-> **Name:** `home`
+> &#x20;**New name:** `home`
 
 <details>
 
@@ -42,7 +46,7 @@
 
 ### **1.2.** New "Screen":
 
-> **Name:** `stay1`
+> **New Screen name:** `stay1`
 
 <details>
 

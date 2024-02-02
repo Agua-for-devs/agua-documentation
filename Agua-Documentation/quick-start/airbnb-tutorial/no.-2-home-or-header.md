@@ -2,7 +2,7 @@
 description: Build the Header of  your Home Screen!
 ---
 
-# 4. Home: Header
+# No. 2: Home | header
 
 ## Structure and Style
 
@@ -13,12 +13,12 @@ description: Build the Header of  your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/home_header_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
-{% endtab %}
-
 {% tab title="1. Video" %}
 
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../.gitbook/assets/home_header_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -26,7 +26,7 @@ description: Build the Header of  your Home Screen!
 
 ### **1.1.** New _Div_:
 
-> **Name:** `homeheader`
+> **New Div name:** `homeheader`
 
 <details>
 

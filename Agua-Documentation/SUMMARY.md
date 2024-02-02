@@ -5,12 +5,12 @@
 ## Quick Start
 
 * [AirBnb: Tutorial](quick-start/airbnb-tutorial/README.md)
-  * [1. Screens](quick-start/airbnb-tutorial/1.-screens.md)
-  * [4. Home: Header](quick-start/airbnb-tutorial/4.-home-header.md)
-  * [2. Header | Banner](quick-start/airbnb-tutorial/2.-header-or-banner.md)
-  * [3. Header | Horizontal Divider](quick-start/airbnb-tutorial/3.-header-or-horizontal-divider.md)
-  * [5. Header | Desktop Menu](quick-start/airbnb-tutorial/5.-header-or-desktop-menu.md)
-  * [6. Header | Tablet Menu](quick-start/airbnb-tutorial/6.-header-or-tablet-menu.md)
+  * [No. 1: Screens](quick-start/airbnb-tutorial/no.-1-screens.md)
+  * [No. 2: Home | header](quick-start/airbnb-tutorial/no.-2-home-or-header.md)
+  * [No. 3: Header | Banner](quick-start/airbnb-tutorial/no.-3-header-or-banner.md)
+  * [No. 4: Header | Divider](quick-start/airbnb-tutorial/no.-4-header-or-divider.md)
+  * [No. 5. Header | Desktop Menu](quick-start/airbnb-tutorial/no.-5.-header-or-desktop-menu.md)
+  * [No. 6. Header | Tablet Menu](quick-start/airbnb-tutorial/no.-6.-header-or-tablet-menu.md)
 * [Airbnb: Thinking in Agua](quick-start/thinking-in-agua.md)
 
 ## Daily Use
