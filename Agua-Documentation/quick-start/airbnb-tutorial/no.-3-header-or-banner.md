@@ -2,7 +2,7 @@
 description: Build your Home Screen Banner!
 ---
 
-# 2. Header | Banner
+# No. 3: Header | Banner
 
 ## Structure and Elements&#x20;
 
@@ -19,11 +19,11 @@ description: Build your Home Screen Banner!
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
+{% tab title="1. Video" %}
+
 {% endtab %}
 
-{% tab title="1. Video" %}
+{% tab title="1. GIF" %}
 
 {% endtab %}
 {% endtabs %}
@@ -98,12 +98,12 @@ description: Build your Home Screen Banner!
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
-{% endtab %}
-
 {% tab title="1. Video" %}
 
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -152,7 +152,7 @@ description: Build your Home Screen Banner!
 * In the Top-Down first row of buttons, choose the Left-to-right second one.
 * The items are packed  to each other toward the center.
 
-#### **B. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
+#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
 
 * In the Top-Down second row of buttons, choose the Left-to-right second one.
 * The items are packed  to each other toward the center.
@@ -214,12 +214,12 @@ description: Build your Home Screen Banner!
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
-{% endtab %}
-
 {% tab title="1. Video" %}
 
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../.gitbook/assets/Home_banner_1-min (1).gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

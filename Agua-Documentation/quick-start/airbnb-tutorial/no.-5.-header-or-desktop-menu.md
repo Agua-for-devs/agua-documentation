@@ -2,7 +2,7 @@
 description: Build a desktop oriented menu for your Home Screen!
 ---
 
-# 5. Header | Desktop Menu
+# No. 5. Header | Desktop Menu
 
 ## Structure
 
@@ -17,12 +17,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
-{% endtab %}
-
 {% tab title="1. Video" %}
 
+{% endtab %}
+
+{% tab title="1. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -57,9 +57,33 @@ description: Build a desktop oriented menu for your Home Screen!
 
 </details>
 
+### **1.2.** Set "homemenu" _Size_:
+
+> **Width**_:_ `Fill`
+>
+> **Height**: `Wrap`
+
+<details>
+
+<summary>1<strong>.2. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### **A. \[Click]** **the **_**Fill**_** button,** inside the Width section_:_
+
+* The horizontal size of the Div will be the 100% _of the screen._
+* You cannot use _Fill size_ in the case there is a parent element in _Wrap size._
+
+#### **B. \[Click]** **the **_**Wrap**_** button,** inside the Height section_:_
+
+* The vertical size of the Div will become its child's maximum combined size.
+* You cannot use _Wrap size_ in the case there is a child element in _Fill size_.
+
+</details>
 
 
-### **1.2.** New child _Divs,_ inside _"_homemenudesktop":
+
+### **1.3.** New child _Divs,_ inside _"_homemenudesktop":
 
 > **Name 1 :** `sitemenu`
 >
@@ -67,7 +91,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 <details>
 
-<summary>1<strong>.2. Written steps</strong></summary>
+<summary>1<strong>.3. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -92,7 +116,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **1.3.** Set "homemenudesktop" _Size_:
+### **1.4.** Set "homemenudesktop" _Size_:
 
 > **Width**_:_ `Fill`
 >
@@ -100,7 +124,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 <details>
 
-<summary>1<strong>.3. Written steps</strong></summary>
+<summary>1<strong>.4. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
@@ -120,8 +144,6 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-
-
 ## Site Menu: Elements
 
 
@@ -135,12 +157,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="2. GIF" %}
-<figure><img src="../../.gitbook/assets/Home_menu_desktop_1-min.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="2. Video" %}
 
+{% endtab %}
+
+{% tab title="2. GIF" %}
+<figure><img src="../../.gitbook/assets/Home_menu_desktop_1-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -265,12 +287,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="3. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_2-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="3. Video" %}
 
+{% endtab %}
+
+{% tab title="3. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_2-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -481,12 +503,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="4. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_3-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="4. Video" %}
 
+{% endtab %}
+
+{% tab title="4. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_3-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -606,12 +628,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="5. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_4-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="5. Video" %}
 
+{% endtab %}
+
+{% tab title="5. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_4-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -694,12 +716,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="6. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_6-min.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="6. Video" %}
 
+{% endtab %}
+
+{% tab title="6. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_6-min.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -887,12 +909,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="7. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_5-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="7. Video" %}
 
+{% endtab %}
+
+{% tab title="7. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_5-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -965,12 +987,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="8. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_7-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="8. Video" %}
 
+{% endtab %}
+
+{% tab title="8. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_7-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1055,12 +1077,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="9. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_8-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="9. Video" %}
 
+{% endtab %}
+
+{% tab title="9. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_8-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1235,12 +1257,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="10. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_9-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="10. Video" %}
 
+{% endtab %}
+
+{% tab title="10. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_9-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1321,12 +1343,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="11. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_10-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="11. Video" %}
 
+{% endtab %}
+
+{% tab title="11. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_10-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1412,12 +1434,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="12. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_11-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="12. Video" %}
 
+{% endtab %}
+
+{% tab title="12. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_11-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1560,12 +1582,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="13. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="13. Video" %}
 
+{% endtab %}
+
+{% tab title="13. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1747,12 +1769,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="13. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="13. Video" %}
 
+{% endtab %}
+
+{% tab title="13. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -1966,12 +1988,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="16. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="16. Video" %}
 
+{% endtab %}
+
+{% tab title="16. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -2189,12 +2211,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="17. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="17. Video" %}
 
+{% endtab %}
+
+{% tab title="17. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_12-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -2374,12 +2396,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="19. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_14_1-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="19. Video" %}
 
+{% endtab %}
+
+{% tab title="19. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_14_1-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -2435,12 +2457,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="20. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_13-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="20. Video" %}
 
+{% endtab %}
+
+{% tab title="20. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_13-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -2561,12 +2583,12 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endhint %}
 
 {% tabs %}
-{% tab title="21. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="21. Video" %}
 
+{% endtab %}
+
+{% tab title="21. GIF" %}
+<figure><img src="../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -18,7 +18,7 @@ description: Build the Header of  your Home Screen!
 {% endtab %}
 
 {% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/home_header_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
+
 {% endtab %}
 {% endtabs %}
 
@@ -57,17 +57,19 @@ description: Build the Header of  your Home Screen!
 
 ### **1.2.** New child _Divs,_ inside _"_homeheader":
 
-> **Name 1:** `homebanner`
+> **New Div 1 name:** `homebanner`
 >
-> **Name 2:** `horizontaldivider`
+> **New Div 2 name::** `horizontaldivider`
 >
-> **Name 3:** `homemenu`
+> **New Div 3 name::** `homemenu`
 >
-> **Name 4:** `homenavbar`
+> **New Div 4 name::** `homenavbar`
 
 <details>
 
 <summary>1<strong>.2. Written steps</strong></summary>
+
+Apply this steps for each of the new Divs.
 
 #### -Inside the _**Element Tree**_-
 
