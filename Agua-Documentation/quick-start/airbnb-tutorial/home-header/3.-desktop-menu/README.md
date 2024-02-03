@@ -140,7 +140,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 ## Step 2:
 
-### Padding and Alignment
+### Alignment, and Padding
 
 {% tabs %}
 {% tab title="2." %}
@@ -156,7 +156,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 2.1. Set "homemenudesktop" _Alignment_:
+### 2.1. Set "homemenu" _Alignment_:
 
 > **Main:** `Axis center`
 >
