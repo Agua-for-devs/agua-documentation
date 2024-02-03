@@ -52,20 +52,6 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **1.3.** New child _Div,_ inside _"_homemenutable":
-
-> **Name:** `searchmenutablet`
-
-<details>
-
-<summary>1<strong>.3. Written steps</strong></summary>
-
-
-
-</details>
-
-
-
 ### 1.4. Copy and paste "sitemenuusers" into "homemenutablet":
 
 > **Copy:**  `[ctrl c ] or [cmd c]`
@@ -80,9 +66,27 @@ description: Build a desktop oriented menu for your Home Screen!
 
 </details>
 
+###
+
+### **1.3.** New child _Div,_ inside _"_homemenutable":
+
+> **Name:** `searchmenutablet`
+
+<details>
+
+<summary>1<strong>.3. Written steps</strong></summary>
 
 
-### 1.5 Refresh "Home"
+
+</details>
+
+
+
+### 1.4. Refresh "Home"
+
+
+
+### 1.5. Organice Divs
 {% endtab %}
 {% endtabs %}
 
