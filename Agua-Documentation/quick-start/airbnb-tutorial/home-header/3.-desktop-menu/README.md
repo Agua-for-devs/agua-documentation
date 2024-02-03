@@ -2,7 +2,7 @@
 description: Build a desktop oriented menu for your Home Screen!
 ---
 
-# 5. Desktop Menu
+# 3. Desktop Menu
 
 ## Structure
 
@@ -22,7 +22,7 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endtab %}
 
 {% tab title="1. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -160,7 +160,7 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endtab %}
 
 {% tab title="21. GIF" %}
-<figure><img src="../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
