@@ -131,8 +131,6 @@ description: Build a desktop oriented menu for your Home Screen!
 * You cannot use _Wrap size_ in the case there is a child element in _Fill size_.
 
 </details>
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -158,7 +156,59 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 2.1. Set "homemenu" _Padding_:
+### 2.1. Set "homemenudesktop" _Alignment_:
+
+> **Main:** `Axis center`
+>
+> **Cross:** `Axis center`
+
+<details>
+
+<summary>2<strong>.1. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down first row of buttons, choose the Left-to-right second one.
+* The items are packed to each other toward the center.
+
+#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down second row of buttons, choose the Left-to-right second one.
+* The items are packed to each other toward the center.
+
+</details>
+
+
+
+### 2.2. Set "homemenudesktop" _Alignment_:
+
+> **Main:** `Axis center`
+>
+> **Cross:** `Axis center`
+
+<details>
+
+<summary>2<strong>.2. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down first row of buttons, choose the Left-to-right second one.
+* The items are packed to each other toward the center.
+
+#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down second row of buttons, choose the Left-to-right second one.
+* The items are packed to each other toward the center.
+
+</details>
+
+
+
+### 2.3. Set "homemenu" _Padding_:
 
 > **Bottom:** `18 px`
 >
@@ -186,32 +236,6 @@ description: Build a desktop oriented menu for your Home Screen!
 
 * You can also change the size value using the _up and down arrows._
 * The default _Unit_ is in _Pixels_, you do not need to change it.
-
-</details>
-
-
-
-### 2.2. Set "homemenudesktop" _Alignment_:
-
-> **Main:** `Axis center`
->
-> **Cross:** `Axis center`
-
-<details>
-
-<summary>21<strong>.2. Written steps</strong></summary>
-
-#### -Inside the **Properties Panel**-
-
-#### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
-
-* In the Top-Down first row of buttons, choose the Left-to-right second one.
-* The items are packed to each other toward the center.
-
-#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
-
-* In the Top-Down second row of buttons, choose the Left-to-right second one.
-* The items are packed to each other toward the center.
 
 </details>
 {% endtab %}
