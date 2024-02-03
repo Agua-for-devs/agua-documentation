@@ -4,11 +4,9 @@ description: Build a desktop oriented menu for your Home Screen!
 
 # 3. Desktop Menu
 
-## Structure
+## Step 1:
 
-
-
-### Step 1: Div, and Size.
+### Div, and Size.
 
 {% tabs %}
 {% tab title="1." %}
@@ -142,11 +140,13 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endtab %}
 {% endtabs %}
 
-## General Styling
 
 
 
-### Step 21: Padding and Alignment.
+
+## Step 2:
+
+### Padding and Alignment.
 
 {% tabs %}
 {% tab title="21." %}
