@@ -238,5 +238,31 @@ description: Build a desktop oriented menu for your Home Screen!
 * The default _Unit_ is in _Pixels_, you do not need to change it.
 
 </details>
+
+
+
+### 9.4. Set "sitemenudiv1" _Padding_:
+
+> **Top:** `10`
+>
+> **Bottom:** `10`
+
+<details>
+
+<summary>9<strong>.4. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### **A.** \[Click] the _Padding Top_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+#### **B.** \[Click] the _Padding Bottom_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+</details>
 {% endtab %}
 {% endtabs %}

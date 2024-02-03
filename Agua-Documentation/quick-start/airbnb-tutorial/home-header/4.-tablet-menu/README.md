@@ -65,6 +65,8 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 </details>
+
+1.4 Refresh Screen
 {% endtab %}
 {% endtabs %}
 
