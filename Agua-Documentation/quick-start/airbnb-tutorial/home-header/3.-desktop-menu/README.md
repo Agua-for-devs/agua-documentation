@@ -241,15 +241,15 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 9.4. Set "sitemenudiv1" _Padding_:
+### 2.4. Set "sitemenu" _Padding_:
 
-> **Top:** `10`
+> **Top:** `10 px`
 >
-> **Bottom:** `10`
+> **Bottom:** `10 px`
 
 <details>
 
-<summary>9<strong>.4. Written steps</strong></summary>
+<summary>2<strong>.4. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
