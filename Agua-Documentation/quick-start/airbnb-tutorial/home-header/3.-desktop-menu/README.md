@@ -6,14 +6,10 @@ description: Build a desktop oriented menu for your Home Screen!
 
 ## Step 1:
 
-### Div, and Size.
+### Div, and Size
 
 {% tabs %}
 {% tab title="1." %}
-{% hint style="success" %}
-**You will:**
-{% endhint %}
-
 {% tabs %}
 {% tab title="1. Video" %}
 
@@ -146,37 +142,47 @@ description: Build a desktop oriented menu for your Home Screen!
 
 ## Step 2:
 
-### Padding and Alignment.
+### Padding and Alignment
 
 {% tabs %}
-{% tab title="21." %}
-{% hint style="success" %}
-**You will:**
-{% endhint %}
-
+{% tab title="2." %}
 {% tabs %}
-{% tab title="21. Video" %}
+{% tab title="2. Video" %}
 
 {% endtab %}
 
-{% tab title="21. GIF" %}
-<figure><img src="../../../../.gitbook/assets/home_menu_desktop_15-min (1).gif" alt=""><figcaption></figcaption></figure>
+{% tab title="2. GIF" %}
+
 {% endtab %}
 {% endtabs %}
 
 
 
-### 21.1. Set "homemenu" _Padding_:
+### 2.1. Set "homemenu" _Padding_:
 
-> **Bottom:** `18`
+> **Bottom:** `18 px`
+>
+> **Left:** `80 px`
+>
+> **Right:** `80 px`
 
 <details>
 
-<summary>21<strong>.1. Written steps</strong></summary>
+<summary>2<strong>.3. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
-#### \[Click] the _Padding Bottom_ container and **\[type]** **the new value**_:_
+#### **A.** \[Click] the _Padding Bottom_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+#### **B.** \[Click] the _Padding Left_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+#### **C.** \[Click] the _Padding Right_ container and **\[type]** **the new value**_:_
 
 * You can also change the size value using the _up and down arrows._
 * The default _Unit_ is in _Pixels_, you do not need to change it.
@@ -185,7 +191,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### 21.2. Set "homemenudesktop" _Alignment_:
+### 2.2. Set "homemenudesktop" _Alignment_:
 
 > **Main:** `Axis center`
 >

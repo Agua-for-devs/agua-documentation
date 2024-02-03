@@ -13,7 +13,7 @@
       * [3.1. Site Menu | Elements](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.1.-site-menu-or-elements.md)
       * [3.2. Site Menu | Style](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.2.-site-menu-or-style.md)
       * [3.3. Search | Elements](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.3.-search-or-elements.md)
-      * [3.4. Search | Elements](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.4.-search-or-elements.md)
+      * [3.4. Search | Style](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.4.-search-or-style.md)
     * [4. Tablet Menu](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/README.md)
       * [4.1. Menu | Elements](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/4.1.-menu-or-elements.md)
       * [4.2. Menu Styling](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/4.2.-menu-styling.md)

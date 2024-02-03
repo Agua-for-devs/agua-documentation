@@ -4,16 +4,10 @@ description: Build a desktop oriented menu for your Home Screen!
 
 # 4. Tablet Menu
 
-## Structure
-
 ### Step 1
 
 {% tabs %}
 {% tab title="1." %}
-{% hint style="success" %}
-**You will:**
-{% endhint %}
-
 {% tabs %}
 {% tab title="1. Video" %}
 
@@ -80,10 +74,6 @@ description: Build a desktop oriented menu for your Home Screen!
 
 {% tabs %}
 {% tab title="2." %}
-{% hint style="success" %}
-**You will:**
-{% endhint %}
-
 {% tabs %}
 {% tab title="2. Video" %}
 

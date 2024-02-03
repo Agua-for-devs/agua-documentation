@@ -2,16 +2,10 @@
 description: Create the Screen structure of the project
 ---
 
-# No. 1: Screens
-
-## Structure
+# Screens
 
 {% tabs %}
 {% tab title="1." %}
-{% hint style="success" %}
-**You will create:**
-{% endhint %}
-
 {% tabs %}
 {% tab title="1. Video" %}
 

@@ -2,16 +2,12 @@
 description: Build the Header of  your Home Screen!
 ---
 
-# No. 2: Home | header
+# Home Header
 
-## Structure and Style
+### Div, and Size
 
 {% tabs %}
 {% tab title="1." %}
-{% hint style="success" %}
-**You will create a Div element:**
-{% endhint %}
-
 {% tabs %}
 {% tab title="1. Video" %}
 
