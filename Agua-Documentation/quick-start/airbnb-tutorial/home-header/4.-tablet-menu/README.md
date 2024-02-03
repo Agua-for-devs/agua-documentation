@@ -4,7 +4,9 @@ description: Build a desktop oriented menu for your Home Screen!
 
 # 4. Tablet Menu
 
-### Step 1
+## Step 1:
+
+### Div, and Copy and Paste
 
 {% tabs %}
 {% tab title="1." %}
@@ -20,7 +22,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **1.1.** New child _Div,_ inside _"_homemenu"_:_
+### **1.1.** New child _Div,_ inside _"_homemenu":
 
 > **Name:** `homemenutablet`
 
@@ -70,7 +72,9 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### Step 2
+## Step 2:
+
+### Size, Alignment, Orientation, and Div
 
 {% tabs %}
 {% tab title="2." %}
@@ -132,7 +136,7 @@ description: Build a desktop oriented menu for your Home Screen!
 
 
 
-### **2.4.** New child _Div,_ inside _"_homemenutable"_:_
+### **2.4.** New child _Div,_ inside _"_homemenutable":
 
 > **Name:** `searchmenutablet`
 

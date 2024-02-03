@@ -16,7 +16,7 @@
       * [3.4. Search | Style](quick-start/airbnb-tutorial/home-header/3.-desktop-menu/3.4.-search-or-style.md)
     * [4. Tablet Menu](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/README.md)
       * [4.1. Menu | Elements](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/4.1.-menu-or-elements.md)
-      * [4.2. Menu Styling](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/4.2.-menu-styling.md)
+      * [4.2. Menu | Style](quick-start/airbnb-tutorial/home-header/4.-tablet-menu/4.2.-menu-or-style.md)
 * [Airbnb: Thinking in Agua](quick-start/thinking-in-agua.md)
 
 ## Daily Use
