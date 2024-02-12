@@ -2,6 +2,68 @@
 
 <figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
+## Step 0:
+
+### New Project
+
+{% tabs %}
+{% tab title="New Project" %}
+{% tabs %}
+{% tab title="1. Video" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### **1.** Change -Screen's- _name_ of: "Screen"
+
+> &#x20;**New name:** `Button`
+
+<details>
+
+<summary><strong>1. Written steps</strong></summary>
+
+#### -Inside the Screen's _**Properties Panel**_-
+
+#### **\[Click] the current name of the Screen and type the new one**:
+
+* The name is located at the top of the panel, above of the _Style_ toggle.
+* The new name should not contain any spaces or special characters.
+* The name will be updated in the _Element Tree_ after you have \[clicked] away.
+
+</details>
+
+### 2. Set -Screen's- _Alignment_ of_:_ "Button"
+
+> **Main:** `Axis center`
+>
+> **Cross:** `Axis center`
+
+<details>
+
+<summary>2<strong>. Written steps</strong></summary>
+
+#### -Inside each of the Screens' _**Properties Panel**_-
+
+#### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down first row of buttons, choose the Left-to-right second one.
+* The items are packed  to each other toward the center.
+
+#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
+
+* In the Top-Down second row of buttons, choose the Left-to-right second one.
+* The items are packed  to each other toward the center.
+
+</details>
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
 ## Screen, and Alignment
 
 {% tabs %}
@@ -216,6 +278,8 @@
 </details>
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
