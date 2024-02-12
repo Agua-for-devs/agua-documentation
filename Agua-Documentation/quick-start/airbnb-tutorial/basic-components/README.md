@@ -16,9 +16,9 @@
 
 
 
-### **1.1.** Change -Screen- _name_: "Screen"
+### **1.1.** Change -Screen's- _name_ of: "Screen"
 
-> &#x20;**New name:** `Button`
+> &#x20;New name: **Button**
 
 <details>
 
@@ -38,9 +38,9 @@
 
 ### **1.2.** Create new -Screens-
 
-> **New Screen 1 name:** `Card`
+> New Screen 1 name: **Card**
 >
-> **New Screen 2 name:** `Divider`
+> New Screen 2 name: **Divider**
 
 <details>
 
@@ -61,11 +61,11 @@
 
 
 
-### 2.2. Set -Screens- _Alignment_: "Button", "Card", "Divider"
+### 2.2. Set -Screen's- _Alignment_ of_:_ "Button", "Card", and "Divider"
 
-> **Main:** `Axis center`
+> Main**: Axis center**
 >
-> **Cross:** `Axis center`
+> Cross: **Axis center**
 
 <details>
 
