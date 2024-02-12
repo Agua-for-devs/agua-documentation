@@ -16,15 +16,15 @@
 
 
 
-### **1.1.** Change -Screen's- _name_ of: "Screen"
+### **1.** Change -Screen's- _name_ of: "Screen"
 
 > &#x20;New name: **Button**
 
 <details>
 
-<summary><strong>1.1. Written steps</strong></summary>
+<summary><strong>1. Written steps</strong></summary>
 
-#### -Inside the Screen's _**Properties Panel**_-
+\-Inside the Screen's _**Properties Panel**_-
 
 #### **\[Click] the current name of the Screen and type the new one**:
 
@@ -36,15 +36,15 @@
 
 
 
-### **1.2.** Create new -Screens-
+### **2.** Create new -Screens-
 
-> **New Screen 1 name:** Card
+> **New Screen 1 name:** `Card`
 >
-> New Screen 2 name: **Divider**
+> **New Screen 2 name:** `Divider`
 
 <details>
 
-<summary><strong>1.2. Written steps</strong></summary>
+<summary><strong>2. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -61,15 +61,15 @@
 
 
 
-### 2.2. Set -Screen's- _Alignment_ of_:_ "Button", "Card", and "Divider"
+### 3. Set -Screen's- _Alignment_ of_:_ "Button", "Card", and "Divider"
 
-> Main**: Axis center**
+> **Main:** `Axis center`
 >
-> Cross: **Axis center**
+> **Cross:** `Axis center`
 
 <details>
 
-<summary>2<strong>.2. Written steps</strong></summary>
+<summary><strong>3. Written steps</strong></summary>
 
 #### &#x20;- Inside each of the Screens' _**Properties Panel**_-
 
