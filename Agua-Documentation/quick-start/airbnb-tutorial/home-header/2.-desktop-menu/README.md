@@ -2,7 +2,7 @@
 description: Build a desktop oriented menu for your Home Screen!
 ---
 
-# 3. Desktop Menu
+# 2. Desktop Menu
 
 ## Step 1:
 
@@ -16,9 +16,37 @@ description: Build a desktop oriented menu for your Home Screen!
 {% endtab %}
 
 {% tab title="1. GIF" %}
-<figure><img src="../../../../.gitbook/assets/home_menu_1-min.gif" alt=""><figcaption><p>Pending to Update.</p></figcaption></figure>
+
 {% endtab %}
 {% endtabs %}
+
+
+
+### **8.1.** Set "sitemenumedia1" _Size_:
+
+> **Width**_:_ `100 px`
+>
+> **Height**: `30 px`
+
+<details>
+
+<summary>8<strong>.1. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### **A.**  \[Click] the _Width size_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Size_ of a new Div is Fixed, you do not need to change it.
+* The default _Unit_ of _Fixed_ size is _Pixels_, you do not need to change it.
+
+#### **B.**  \[Click] the _Height size_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Size_ of a new Div is Fixed, you do not need to change it.
+* The default _Unit_ of _Fixed_ size is _Pixels_, you do not need to change it.
+
+</details>
 
 
 

@@ -1,164 +1,4 @@
-# 2. Card
-
-## Step 1:&#x20;
-
-### Div, Size, Margin, and Position
-
-{% tabs %}
-{% tab title="1" %}
-{% tabs %}
-{% tab title="1. Video" %}
-
-{% endtab %}
-
-{% tab title="1. GIF" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### 1.1. Create new child -Div- inside of the Screen: "Card"
-
-> **New Div name:** `buttoncard`
-
-<details>
-
-<summary>1<strong>.1. Written steps</strong></summary>
-
-#### -Inside the _**Element Tree**_-
-
-#### **A. \[Click]** **the **_**Text Icon**_**:**
-
-* The button is located at the top of the panel, below the _Screens._
-* The _Icon_ will turn blue, and your pointer will change.
-
-#### **B. Drag your pointer and click "**homebanner**":**
-
-* The new element will appear as a child of the _Screen_.
-* The _Text_ will be created with the default name "Text #".
-
-#### -Inside the Div's _**Properties Panel**_-
-
-#### **C. \[Click] the current name of the **_**Text**_** and \[type] the new one**:
-
-* The new name should be lowercase, without any spaces or special characters.
-* The name will be updated in the _Element Tree_ after you have \[clicked] away.
-
-</details>
-
-
-
-### 1.2. Create new child -Divs- inside of the Div: "buttoncard"
-
-> **New Div 1 name:** `buttontag`
->
-> **New Div 2 name:** `buttonimages`
->
-> **New Div 3 name:** `buttoninfo`
-
-<details>
-
-<summary>1<strong>.2. Written steps</strong></summary>
-
-#### -Inside the _**Element Tree**_-
-
-#### **A. \[Click]** **the **_**Text Icon**_**:**
-
-* The button is located at the top of the panel, below the _Screens._
-* The _Icon_ will turn blue, and your pointer will change.
-
-#### **B. Drag your pointer and click "**homebanner**":**
-
-* The new element will appear as a child of the _Screen_.
-* The _Text_ will be created with the default name "Text #".
-
-#### -Inside the Div's _**Properties Panel**_-
-
-#### **C. \[Click] the current name of the **_**Text**_** and \[type] the new one**:
-
-* The new name should be lowercase, without any spaces or special characters.
-* The name will be updated in the _Element Tree_ after you have \[clicked] away.
-
-</details>
-
-
-
-### **1.3.** Set -Div's- _Size_ of: "buttoncard"
-
-> **Width**_:_ `Wrap`
->
-> **Height**: `Wrap`
-
-<details>
-
-<summary>1<strong>.3. Written steps</strong></summary>
-
-#### -Inside the Div's _**Properties Panel**_-
-
-#### **A. \[Click]** **the **_**Fill**_** button,** inside the Width section_:_
-
-* The horizontal size of the Div will be the 100% _of the screen._
-* You cannot use _Fill size_ in the case there is a parent element in _Wrap size._
-
-#### **B. \[Click]** **the **_**Wrap**_** button,** inside the Height section_:_
-
-* The vertical size of the Div will become its child's maximum combined size.
-* You cannot use _Wrap size_ in the case there is a child element in _Fill size_.
-
-</details>
-
-
-
-### 1.4. Set -Div's- _Margin_ of: "buttoncard"
-
-> **Top:** `18`
->
-> **Bottom:** `18`
-
-<details>
-
-<summary>1<strong>.4. Written steps</strong></summary>
-
-#### -Inside the **Properties Panel**-
-
-#### **A.** \[Click] the _Margin **Top**_ container and **\[type]** **the new value**_:_
-
-* You can also change the size value using the _up and down arrows._
-* The default _Unit_ is in _Pixels_, you do not need to change it.
-
-#### **B.** \[Click] the _Margin **Bottom**_ container and **\[type]** **the new value**_:_
-
-* You can also change the size value using the _up and down arrows._
-* The default _Unit_ is in _Pixels_, you do not need to change it.
-
-</details>
-
-
-
-### **1.5.** Set -Div's- _Position_ of: "buttoncard"
-
-> `Relative`
-
-<details>
-
-<summary>1<strong>.5. Written steps</strong></summary>
-
-#### -Inside the **Properties Panel**-
-
-#### **\[Click]** **the **_**Rel**_** button,** inside the Position section_:_
-
-* In the row of buttons, choose the left-to-right third one.
-* The Div is offset relative to itself with a new stacking context.
-* Its child elements are positioned relative to the parent.
-
-</details>
-{% endtab %}
-{% endtabs %}
-
-
-
-
+# Card's Tag
 
 ## Step 2:
 
@@ -178,13 +18,13 @@
 
 
 
-### **1.1.** Create new child -Text- inside of the Div: _"_buttontag"
+### **2.1.** Create new child -Text- inside of the Div: _"_cardtag"
 
-> **New Text name :** `buttontagtext`
+> **New Text name :** `cardtagtext`
 
 <details>
 
-<summary>1<strong>.2. Written steps</strong></summary>
+<summary>2<strong>.1. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -209,7 +49,7 @@
 
 
 
-### 1.2. Set -Div's- _Alignment_ of: "buttontag"
+### 2.2. Set -Div's- _Alignment_ of: "cardtag"
 
 > **Main:** `Axis center`
 >
@@ -217,7 +57,7 @@
 
 <details>
 
-<summary>1<strong>.3. Written steps</strong></summary>
+<summary>2<strong>.2. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -235,7 +75,7 @@
 
 
 
-### **1.3.** Set -Div's- _Size_ of: "buttontag"
+### **2.3.** Set -Div's- _Size_ of: "cardtag"
 
 > **Width**_:_ `Wrap`
 >
@@ -243,7 +83,7 @@
 
 <details>
 
-<summary>1<strong>.5. Written steps</strong></summary>
+<summary>2<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -261,13 +101,13 @@
 
 
 
-### 1.4. Set _Text_ of: "buttontagtext"
+### 2.4. Set _Text_ of: "cardtagtext"
 
 > **Selected Text:** `Guest favorite`
 
 <details>
 
-<summary>1<strong>.5. Written steps</strong></summary>
+<summary>2<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -282,31 +122,33 @@
 
 
 
+
+
 ## Step 3:
 
 ### Background Color, Radius, and Padding
 
 {% tabs %}
-{% tab title="2" %}
+{% tab title="3" %}
 {% tabs %}
-{% tab title="2. GIF" %}
+{% tab title="3. GIF" %}
 
 {% endtab %}
 
-{% tab title="2. Video" %}
+{% tab title="3. Video" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### 2.1. Set -Div's- _Background Color_ of: "buttondiv&#x20;
+### 3.1. Set -Div's- _Background Color_ of: "cardtag&#x20;
 
 > `FFFFFF`
 
 <details>
 
-<summary>2<strong>.1. Written steps</strong></summary>
+<summary>3<strong>.1. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -322,13 +164,13 @@
 
 
 
-### 2.2. Set -Div's- _Radius_ of: "buttondiv "
+### 3.2. Set -Div's- _Radius_ of: "cardtag "
 
 > `25`
 
 <details>
 
-<summary>2<strong>.2. Written steps</strong></summary>
+<summary>3<strong>.2. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -342,7 +184,7 @@
 
 
 
-### 2.3. Set -Div's- _Padding_ of: "buttondiv "
+### 3.3. Set -Div's- _Padding_ of: "cardtag "
 
 > **Top:** `6`
 >
@@ -354,7 +196,7 @@
 
 <details>
 
-<summary>2<strong>.3. Written steps</strong></summary>
+<summary>3<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -382,13 +224,13 @@
 
 
 
-### 2.4. Set -Text- _Size_ of: "buttonicon"
+### 3.4. Set -Text- _Size_ of: "cardtagtext"
 
-> `28`
+> `16`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>3<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -409,20 +251,20 @@
 ### Position, and  z-index
 
 {% tabs %}
-{% tab title="2." %}
+{% tab title="4" %}
 {% tabs %}
-{% tab title="2. Video" %}
+{% tab title="4. Video" %}
 
 {% endtab %}
 
-{% tab title="2. GIF" %}
+{% tab title="4. GIF" %}
 
 {% endtab %}
 {% endtabs %}
 
-j
 
-### **6.2.** Set -Div's- _Position_ of: "buttontag"
+
+### **4.1.** Set -Div's- _Position_ of: "cardtag"
 
 > `Absolute`
 
@@ -440,7 +282,9 @@ j
 
 </details>
 
-### **6.3.** Set -Div's- _z-index_ of: "buttontag"
+
+
+### **4.2.** Set -Div's- _z-index_ of: "cardtag"
 
 > `1`
 
@@ -458,9 +302,9 @@ j
 
 </details>
 
-j
 
-### **6.2.** Set -Div's- _Position_ of: "buttontag"
+
+### **4.3.** Set -Div's- _Position_ of: "cardtag"
 
 > **Top:** `15`
 >
@@ -468,7 +312,7 @@ j
 
 <details>
 
-<summary>1<strong>.4. Written steps</strong></summary>
+<summary>4<strong>.3. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
@@ -486,26 +330,3 @@ j
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-## Save.
-
-{% tabs %}
-{% tab title="Save" %}
-{% tabs %}
-{% tab title="GIF" %}
-
-{% endtab %}
-
-{% tab title="Video" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### Click the Save button.
-{% endtab %}
-{% endtabs %}

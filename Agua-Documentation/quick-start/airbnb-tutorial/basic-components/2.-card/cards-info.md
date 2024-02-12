@@ -1,0 +1,23 @@
+# Card's Info
+
+
+
+## Save.
+
+{% tabs %}
+{% tab title="Save" %}
+{% tabs %}
+{% tab title="GIF" %}
+
+{% endtab %}
+
+{% tab title="Video" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### Click the Save button.
+{% endtab %}
+{% endtabs %}
