@@ -1,5 +1,13 @@
 # Basic Components
 
+## Button
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-12 at 9.53.48 AM.png" alt=""><figcaption></figcaption></figure>
+
+## Card
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
+
 ## Screen, and Alignment
 
 {% tabs %}

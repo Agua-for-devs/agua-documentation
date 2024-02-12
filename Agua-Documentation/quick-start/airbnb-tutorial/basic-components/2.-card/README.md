@@ -1,5 +1,11 @@
 # 2. Card
 
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 ## Step 1:&#x20;
 
 ### Div, Size, Margin, and Position
@@ -28,19 +34,19 @@
 
 #### -Inside the _**Element Tree**_-
 
-#### **A. \[Click]** **the **_**Text Icon**_**:**
+#### **A. \[Click]** **the **_**Div Icon**_**:**
 
 * The button is located at the top of the panel, below the _Screens._
 * The _Icon_ will turn blue, and your pointer will change.
 
-#### **B. Drag your pointer and click "**homebanner**":**
+#### **B. Drag your pointer and click "Home":**
 
 * The new element will appear as a child of the _Screen_.
-* The _Text_ will be created with the default name "Text #".
+* The _Div_ will be created with the default name "Layer #".
 
-#### -Inside the Div's _**Properties Panel**_-
+#### -Inside the **Properties Panel**-
 
-#### **C. \[Click] the current name of the **_**Text**_** and \[type] the new one**:
+#### **C. \[Click] the current name of the **_**Div**_** and \[type] the new one**:
 
 * The new name should be lowercase, without any spaces or special characters.
 * The name will be updated in the _Element Tree_ after you have \[clicked] away.
@@ -63,19 +69,19 @@
 
 #### -Inside the _**Element Tree**_-
 
-#### **A. \[Click]** **the **_**Text Icon**_**:**
+#### **A. \[Click]** **the **_**Div Icon**_**:**
 
 * The button is located at the top of the panel, below the _Screens._
 * The _Icon_ will turn blue, and your pointer will change.
 
-#### **B. Drag your pointer and click "**homebanner**":**
+#### **B. Drag your pointer and click "Home":**
 
 * The new element will appear as a child of the _Screen_.
-* The _Text_ will be created with the default name "Text #".
+* The _Div_ will be created with the default name "Layer #".
 
-#### -Inside the Div's _**Properties Panel**_-
+#### -Inside the **Properties Panel**-
 
-#### **C. \[Click] the current name of the **_**Text**_** and \[type] the new one**:
+#### **C. \[Click] the current name of the **_**Div**_** and \[type] the new one**:
 
 * The new name should be lowercase, without any spaces or special characters.
 * The name will be updated in the _Element Tree_ after you have \[clicked] away.

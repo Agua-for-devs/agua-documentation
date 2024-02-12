@@ -314,14 +314,14 @@
 
 <summary>4<strong>.3. Written steps</strong></summary>
 
-#### -Inside the **Properties Panel**-
+#### -Inside the Div's _**Properties Panel**_-
 
-#### **A.** \[Click] the _Margin **Top**_ container and **\[type]** **the new value**_:_
+#### **A.** \[Click] the _Position **Top**_ container and **\[type]** **the new value**_:_
 
 * You can also change the size value using the _up and down arrows._
 * The default _Unit_ is in _Pixels_, you do not need to change it.
 
-#### **B.** \[Click] the _Margin **Bottom**_ container and **\[type]** **the new value**_:_
+#### **B.** \[Click] the _Left **Bottom**_ container and **\[type]** **the new value**_:_
 
 * You can also change the size value using the _up and down arrows._
 * The default _Unit_ is in _Pixels_, you do not need to change it.
