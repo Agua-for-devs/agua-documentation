@@ -2,7 +2,9 @@
 description: Create the Screen structure of the project
 ---
 
-# Screens
+# Home Screen
+
+
 
 {% tabs %}
 {% tab title="Screens" %}
@@ -32,27 +34,6 @@ description: Create the Screen structure of the project
 
 * The name is located at the top of the panel, above of the _Style_ toggle.
 * The new name should be lowercase, without any spaces or special characters.
-* The name will be updated in the _Element Tree_ after you have \[clicked] away.
-
-</details>
-
-### **2.** New "Screen":
-
-> **New Screen name:** `stay1`
-
-<details>
-
-<summary><strong>1.2. Written steps</strong></summary>
-
-#### -Inside the _**Element Tree**_-
-
-#### **A. \[Click]** **the **_**Create new screen button**_**:**
-
-* The button is located at the top of the panel, above of the _Elements_ _icons_.
-
-#### **B. \[Type] the name of the new Screen:**
-
-* The new name should not have any spaces or special characters.
 * The name will be updated in the _Element Tree_ after you have \[clicked] away.
 
 </details>

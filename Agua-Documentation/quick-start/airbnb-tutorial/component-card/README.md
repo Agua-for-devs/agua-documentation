@@ -1,8 +1,20 @@
-# 2. Card
+# Component: Card
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
 
 
+
+
+
+{% tabs %}
+{% tab title="A. Open Project" %}
+<figure><img src="../../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
+
+You can also follow our [Initial Setup](../../../daily-use/basics/initial-setup.md) guide in the DAILY USE section.
+{% endtab %}
+{% endtabs %}
+
+***
 
 
 
