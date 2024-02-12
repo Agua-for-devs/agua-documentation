@@ -18,13 +18,13 @@
 
 ### **1.** Change -Screen's- _name_ of: "Screen"
 
-> &#x20;New name: **Button**
+> &#x20;**New name:** `Button`
 
 <details>
 
 <summary><strong>1. Written steps</strong></summary>
 
-\-Inside the Screen's _**Properties Panel**_-
+#### -Inside the Screen's _**Properties Panel**_-
 
 #### **\[Click] the current name of the Screen and type the new one**:
 
@@ -71,7 +71,7 @@
 
 <summary><strong>3. Written steps</strong></summary>
 
-#### &#x20;- Inside each of the Screens' _**Properties Panel**_-
+#### -Inside each of the Screens' _**Properties Panel**_-
 
 #### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
 
@@ -87,3 +87,24 @@
 {% endtab %}
 {% endtabs %}
 
+
+
+## Save.
+
+{% tabs %}
+{% tab title="Save" %}
+{% tabs %}
+{% tab title="GIF" %}
+
+{% endtab %}
+
+{% tab title="Video" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### Click the Save button.
+{% endtab %}
+{% endtabs %}
