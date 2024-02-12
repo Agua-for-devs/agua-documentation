@@ -39,8 +39,6 @@
 ### **2.** Create new -Screens-
 
 > **New Screen 1 name:** `Card`
->
-> **New Screen 2 name:** `Divider`
 
 <details>
 
