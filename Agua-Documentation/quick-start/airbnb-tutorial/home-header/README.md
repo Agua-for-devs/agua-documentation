@@ -7,7 +7,7 @@ description: Build the Header of  your Home Screen!
 ### Div, and Size
 
 {% tabs %}
-{% tab title="1." %}
+{% tab title="Home Header" %}
 {% tabs %}
 {% tab title="1. Video" %}
 
@@ -20,7 +20,7 @@ description: Build the Header of  your Home Screen!
 
 
 
-### **1.1.** New _Div_:
+### **1.** New _Div_:
 
 > **New Div name:** `homeheader`
 
@@ -51,7 +51,7 @@ description: Build the Header of  your Home Screen!
 
 
 
-### **1.2.** New child _Divs,_ inside _"_homeheader":
+### **2.** New child _Divs,_ inside _"_homeheader":
 
 > **New Div 1 name:** `homebanner`
 >
@@ -90,7 +90,7 @@ Apply this steps for each of the new Divs.
 
 
 
-### **1.3.** Set "homeheader" _Size_:
+### **3.** Set "homeheader" _Size_:
 
 > **Width**_:_ `Fill`
 >

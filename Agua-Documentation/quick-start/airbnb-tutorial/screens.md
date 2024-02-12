@@ -5,7 +5,7 @@ description: Create the Screen structure of the project
 # Screens
 
 {% tabs %}
-{% tab title="1." %}
+{% tab title="Screens" %}
 {% tabs %}
 {% tab title="1. Video" %}
 
@@ -18,7 +18,7 @@ description: Create the Screen structure of the project
 
 
 
-### **1.1.** Change "Screen" _name_:
+### **1.** Change "Screen" _name_:
 
 > &#x20;**New name:** `home`
 
@@ -36,9 +36,7 @@ description: Create the Screen structure of the project
 
 </details>
 
-
-
-### **1.2.** New "Screen":
+### **2.** New "Screen":
 
 > **New Screen name:** `stay1`
 
