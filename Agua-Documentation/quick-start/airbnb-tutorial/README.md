@@ -19,11 +19,7 @@ layout:
 
 You will replicate Airbnb's Front-end for a user who is looking for a cabin in New York. User interaction start at Airbnbs homepage and follows the information page of a particular Stay. The interface is built responsive and uses a component design approach.
 
-
-
 {% embed url="https://airbnb-demo.agua.tools" %}
-[https://airbnb-demo.agua.tools/](https://airbnb-demo.agua.tools/)
-{% endembed %}
 
 
 
@@ -37,13 +33,11 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 <div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 9.53.48 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
@@ -55,7 +49,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 <div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airbnb_Card.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 {% endtab %}
@@ -63,9 +57,18 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 
 
-
-
 ### 3. [Home Screen: Header](home-screen.md)
 
-###
 
+
+{% tabs %}
+{% tab title="Component: Button" %}
+[Click here](home-screen.md) and create an Airbnb Header in 30 minutes!
+
+<div data-full-width="false">
+
+<figure><img src="../../.gitbook/assets/Airbnb_Header.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+{% endtab %}
+{% endtabs %}

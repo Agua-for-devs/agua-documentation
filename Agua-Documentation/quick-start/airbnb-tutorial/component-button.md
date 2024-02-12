@@ -1,6 +1,6 @@
 # Component: Button
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 9.53.48 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
 ## Screen, and Alignment
 

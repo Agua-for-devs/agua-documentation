@@ -1,6 +1,6 @@
 # Component: Card
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-12 at 9.52.33 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Airbnb_Card.png" alt=""><figcaption></figcaption></figure>
 
 
 
