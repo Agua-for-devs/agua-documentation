@@ -29,7 +29,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tabs %}
 {% tab title="Component: Button" %}
-[Click here](component-button.md) and create an Airbnb button in 5 minutes!
+[Click here](component-button.md) and create an Airbnb button in **5 minutes**!
 
 <div data-full-width="false">
 
@@ -45,7 +45,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tabs %}
 {% tab title="Component: Button" %}
-[Click here](component-card/) and create an Airbnb card in 15 minutes!
+[Click here](component-card/) and create an Airbnb card in **15 minutes**!
 
 <div data-full-width="false">
 
@@ -63,7 +63,7 @@ You will replicate Airbnb's Front-end for a user who is looking for a cabin in N
 
 {% tabs %}
 {% tab title="Component: Button" %}
-[Click here](home-screen.md) and create an Airbnb Header in 30 minutes!
+[Click here](home-screen.md) and create an Airbnb Header in **30 minutes**!
 
 <div data-full-width="false">
 
