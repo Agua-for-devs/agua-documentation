@@ -339,6 +339,80 @@
 
 
 
+## Step 9:
+
+### Text, Div, Icon, and Size
+
+{% tabs %}
+{% tab title="8." %}
+{% tabs %}
+{% tab title="8. Video" %}
+
+{% endtab %}
+
+{% tab title="8. GIF" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### 2.4. Set _Text_ of: "cardinfodiv2text1"
+
+> **Selected Text:** `$350`
+
+<details>
+
+<summary>2<strong>.4. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon_ container and \[click] the _Icon_:
+
+* You can use the _Icon_ name to find it through the SearchBar.
+* You can also find it through each Material category's dropdown.
+
+</details>
+
+
+
+### 2.4. Set _Text_ of: "cardinfodiv2text2"
+
+> **Selected Text:** `night`
+
+<details>
+
+<summary>2<strong>.4. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon_ container and \[click] the _Icon_:
+
+* You can use the _Icon_ name to find it through the SearchBar.
+* You can also find it through each Material category's dropdown.
+
+</details>
+
+
+
+### 3.4. Set -Text- _Size_ of: "cardinfodiv2text1"
+
+> `16`
+
+<details>
+
+<summary>3<strong>.4. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon Size_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+
+</details>
+{% endtab %}
+{% endtabs %}
+
 
 
 ## Step 9:
