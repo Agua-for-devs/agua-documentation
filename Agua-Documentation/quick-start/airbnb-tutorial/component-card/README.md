@@ -6,18 +6,6 @@
 
 
 
-{% tabs %}
-{% tab title="A. Open Project" %}
-<figure><img src="../../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
-
-You can also follow our [Initial Setup](../../../daily-use/basics/initial-setup.md) guide in the DAILY USE section.
-{% endtab %}
-{% endtabs %}
-
-***
-
-
-
 ## Step 1:&#x20;
 
 ### Div, Size, Margin, and Position

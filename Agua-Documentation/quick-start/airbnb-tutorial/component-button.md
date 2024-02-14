@@ -4,7 +4,7 @@
 
 ## Step 0:
 
-### New Project
+### GitHub Repo, and Agua Project
 
 {% tabs %}
 {% tab title="New Project" %}
@@ -16,53 +16,31 @@
 
 
 
-### **1.** Change -Screen's- _name_ of: "Screen"
+### **1.** Fork -Airbnb's Demo- GitHub Repo
 
-> &#x20;**New name:** `Button`
+> [https://github.com/Agua-for-devs/agua-airbnb-demo](https://github.com/Agua-for-devs/agua-airbnb-demo)
 
-<details>
 
-<summary><strong>1. Written steps</strong></summary>
 
-#### -Inside the Screen's _**Properties Panel**_-
+### **2.** Clone locally your -Airbnb's Demo- GitHub forked Repo
 
-#### **\[Click] the current name of the Screen and type the new one**:
 
-* The name is located at the top of the panel, above of the _Style_ toggle.
-* The new name should not contain any spaces or special characters.
-* The name will be updated in the _Element Tree_ after you have \[clicked] away.
 
-</details>
+### **3.** Open your -Airbnb's Demo- folder in Agua
 
-### 2. Set -Screen's- _Alignment_ of_:_ "Button"
+> [https://editor.agua.app/](https://editor.agua.app/)
 
-> **Main:** `Axis center`
->
-> **Cross:** `Axis center`
-
-<details>
-
-<summary>2<strong>. Written steps</strong></summary>
-
-#### -Inside each of the Screens' _**Properties Panel**_-
-
-#### **A. \[Click]** **the **_**Main** Axis center_ **button,** inside the Alignment section_:_
-
-* In the Top-Down first row of buttons, choose the Left-to-right second one.
-* The items are packed  to each other toward the center.
-
-#### **B. \[Click]** **the **_**Cross** Axis center_ **button,** inside the Alignment section_:_
-
-* In the Top-Down second row of buttons, choose the Left-to-right second one.
-* The items are packed  to each other toward the center.
-
-</details>
+{% tabs %}
+{% tab title="3." %}
+<figure><img src="../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 {% endtab %}
 {% endtabs %}
 
 
 
-
+## Step 1:
 
 ## Screen, and Alignment
 
@@ -82,7 +60,11 @@
 
 ### **1.** Change -Screen's- _name_ of: "Screen"
 
-> &#x20;**New name:** `Button`
+> &#x20;**New name:**&#x20;
+>
+> ```
+> Button
+> ```
 
 <details>
 
