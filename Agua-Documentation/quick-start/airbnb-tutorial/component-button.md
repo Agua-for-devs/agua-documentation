@@ -2,6 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
+c
+
+c
+
+
+
 ## Step 0:
 
 ### GitHub Repo, and Agua Project
@@ -38,6 +44,12 @@
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+xssv
+
+ss
+{% endhint %}
+
 
 
 ## Step 1:
@@ -60,7 +72,7 @@
 
 ### **1.** Change -Screen's- _name_ of: "Screen"
 
-> &#x20;**New name:**&#x20;
+> &#x20;**Screen's new name:**
 >
 > ```
 > Button
@@ -72,7 +84,11 @@
 
 #### -Inside the Screen's _**Properties Panel**_-
 
-#### **\[Click] the current name of the Screen and type the new one**:
+#### **\[Click] the current name of the Screen and \[paste]** :
+
+```
+Button
+```
 
 * The name is located at the top of the panel, above of the _Style_ toggle.
 * The new name should not contain any spaces or special characters.
@@ -130,7 +146,10 @@
 
 ### 1.1. Create new child -Div- inside of the Screen: "Button"
 
-> **New Div name:** `buttondiv`
+> **New Div name:**
+>
+> <pre><code><strong>buttondiv
+> </strong></code></pre>
 
 <details>
 
@@ -150,7 +169,11 @@
 
 #### -Inside the **Properties Panel**-
 
-#### **C. \[Click] the current name of the **_**Div**_** and \[type] the new one**:
+#### **C. \[Click] the current name of the **_**Div**_** and \[paste] the new name**:
+
+```
+buttondiv
+```
 
 * The new name should be lowercase, without any spaces or special characters.
 * The name will be updated in the _Element Tree_ after you have \[clicked] away.
@@ -161,7 +184,11 @@
 
 ### **1.2.** Create new child -Icon- inside of the Div: _"_buttondiv"
 
-> **New Icon Name:** `buttonicon`
+> **New Icon Name:**&#x20;
+>
+> ```
+> buttonicon
+> ```
 
 <details>
 
@@ -181,7 +208,11 @@
 
 #### -Inside the Icon's _**Properties Panel**_-
 
-#### **C. \[Click] the current name of the **_**Icon**_** and \[type] the new one**:
+#### **C. \[Click] the current name of the **_**Icon**_** and \[paste]**:
+
+```
+buttonicon
+```
 
 * The new name should be lowercase, without any spaces or special characters.
 * The name will be updated in the _Element Tree_ after you have \[clicked] away.
@@ -244,7 +275,11 @@
 
 ### 1.5. Set _Icon_ of: "buttonicon"
 
-> **Selected Icon:** `search`
+> **Icon name:**&#x20;
+>
+> ```
+> search
+> ```
 
 <details>
 
@@ -252,14 +287,15 @@
 
 #### -Inside the Icon's _**Properties Panel**_-
 
-#### \[Click] the _Icon_ container and \[click] the _Icon_:
+#### \[Click] the _Icon_ container and \[paste] the _Icon_ name:
 
-* You can use the _Icon_ name to find it through the SearchBar.
-* You can also find it through each Material category's dropdown.
+```
+search
+```
+
+* You can also find it through each Material category's dropdown and \[click] it.
 
 </details>
-
-s
 {% endtab %}
 {% endtabs %}
 
@@ -287,7 +323,11 @@ s
 
 ### 2.1. Set -Div's- _Background Color_ of: "buttondiv&#x20;
 
-> `FF385C`
+> **HEX Color:**
+>
+> ```
+> FF385C
+> ```
 
 <details>
 
@@ -299,7 +339,11 @@ s
 
 * Fill allows you to select either a material color or a gradient as background.
 
-**B. \[Click] **_**Background color**_** and** **\[Type]** **the desired color**_:_
+**B. \[Click] **_**Background color**_** and** **\[paste]** **the color**_:_
+
+```
+FF385C
+```
 
 * You can type a 6 characters HEX code without the initial #.
 
@@ -309,7 +353,11 @@ s
 
 ### 2.2. Set -Div's- _Radius_ of: "buttondiv "
 
-> `25`
+> **Div's Radius:**
+>
+> ```
+> 25
+> ```
 
 <details>
 
@@ -317,7 +365,11 @@ s
 
 #### -Inside the Div's _**Properties Panel**_-
 
-#### \[Click] the _Radius_ container, and **\[type]** **the new value**_:_
+#### \[Click] the _Radius_ container, and **\[paste]** **the value**_:_
+
+```
+25
+```
 
 * The _Radius_ applies to all four sides of a _Div._
 * You can also change the size value using the _up and down arrows._
@@ -329,13 +381,29 @@ s
 
 ### 2.3. Set -Div's- _Padding_ of: "buttondiv "
 
-> **Top:** `8`
+> **Top:** `px`
 >
-> **Bottom:** `8`
+> ```
+> 8
+> ```
 >
-> **Left:** `8`
+> **Bottom:** `px`
 >
-> **Right:** `8`
+> ```
+> 8
+> ```
+>
+> **Left:** `px`
+>
+> ```
+> 8
+> ```
+>
+> **Right:** `px`
+>
+> ```
+> 8
+> ```
 
 <details>
 
