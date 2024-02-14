@@ -344,26 +344,26 @@
 ### Text, Div, Icon, and Size
 
 {% tabs %}
-{% tab title="8." %}
+{% tab title="9" %}
 {% tabs %}
-{% tab title="8. Video" %}
+{% tab title="9. Video" %}
 
 {% endtab %}
 
-{% tab title="8. GIF" %}
+{% tab title="9. GIF" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### 2.4. Set _Text_ of: "cardinfodiv2text1"
+### 9.1. Set _Text_ of: "cardinfodiv1text1"
 
-> **Selected Text:** `$350`
+> **Selected Text:** `Milford, Pennsylvania`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>9<strong>.1. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -376,13 +376,13 @@
 
 
 
-### 2.4. Set _Text_ of: "cardinfodiv2text2"
+### 9.2. Set _Text_ of: "cardinfodiv1text2"
 
 > **Selected Text:** `night`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>9<strong>.2. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -395,13 +395,50 @@
 
 
 
-### 3.4. Set -Text- _Size_ of: "cardinfodiv2text1"
+### 9.3. Set -Text- _Size_ of: "cardinfodiv1text1", and "cardinfodiv1text2"
 
 > `16`
 
 <details>
 
-<summary>3<strong>.4. Written steps</strong></summary>
+<summary>9<strong>.3. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon Size_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+
+</details>
+
+
+
+### 9.4. Set _Icon_ of: "cardinfodiv1icon1"
+
+> **Selected Icon:** `star`
+
+<details>
+
+<summary>9<strong>.4. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon_ container and \[click] the _Icon_:
+
+* You can use the _Icon_ name to find it through the SearchBar.
+* You can also find it through each Material category's dropdown.
+
+</details>
+
+
+
+### 9.5. Set -Icon- _Size_ of: "cardinfodiv1icon1"
+
+> `16`
+
+<details>
+
+<summary>9<strong>.5. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -415,25 +452,161 @@
 
 
 
-## Step 9:
+## Step 10:
 
 ### Text, Div, Icon, and Size
 
 {% tabs %}
-{% tab title="8." %}
+{% tab title="10" %}
 {% tabs %}
-{% tab title="8. Video" %}
+{% tab title="10. Video" %}
 
 {% endtab %}
 
-{% tab title="8. GIF" %}
+{% tab title="10. GIF" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### **8.1.** Create new child -Texts- inside of the Div: _"_cardinfodiv2"
+### 10.1. Set _Text_ of: "cardinfotext1"
+
+> **Selected Text:** `61 miles away`
+
+<details>
+
+<summary>10<strong>.1. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon_ container and \[click] the _Icon_:
+
+* You can use the _Icon_ name to find it through the SearchBar.
+* You can also find it through each Material category's dropdown.
+
+</details>
+
+
+
+### 10.2. Set -Text's- _Margin_ of: "cardinfotext1"
+
+> **Bottom:** `2 px`
+
+<details>
+
+<summary>10<strong>.2. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### \[Click] the _Margin **Bottom**_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+</details>
+
+
+
+### 10.3. Set _Text_ of: "cardinfotext2"
+
+> **Selected Text:** `Jan 22 - 28`
+
+<details>
+
+<summary>10<strong>.3. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon_ container and \[click] the _Icon_:
+
+* You can use the _Icon_ name to find it through the SearchBar.
+* You can also find it through each Material category's dropdown.
+
+</details>
+
+
+
+### 10.4. Set -Text's- _Margin_ of: "cardinfotext2"
+
+> **Bottom: 5** `px`
+
+<details>
+
+<summary>10<strong>.4. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### \[Click] the _Margin **Bottom**_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+* The default _Unit_ is in _Pixels_, you do not need to change it.
+
+</details>
+
+
+
+### 10.5. Set -Text- _Size_ of: "cardinfotext1", and "cardinfotext2"
+
+> `14`
+
+<details>
+
+<summary>10<strong>.5. Written steps</strong></summary>
+
+#### -Inside the Icon's _**Properties Panel**_-
+
+#### \[Click] the _Icon Size_ container and **\[type]** **the new value**_:_
+
+* You can also change the size value using the _up and down arrows._
+
+</details>
+
+
+
+### 10.6. Set -Div's- _Font Color_ of: "cardinfotext1", and "cardinfotext2"
+
+> `717171`
+
+<details>
+
+<summary>10<strong>.6. Written steps</strong></summary>
+
+#### -Inside the Div's _**Properties Panel**_-
+
+#### **A. \[Click]** **the **_**Background**_** toggle and \[click] **_**Fill**:_
+
+* Fill allows you to select either a material color or a gradient as background.
+
+**B. \[Click] **_**Background color**_** and** **\[Type]** **the desired color**_:_
+
+* You can type a 6 characters HEX code without the initial #.
+
+</details>
+{% endtab %}
+{% endtabs %}
+
+
+
+## Step 11:
+
+### Text, Div, Icon, and Size
+
+{% tabs %}
+{% tab title="11" %}
+{% tabs %}
+{% tab title="11. Video" %}
+
+{% endtab %}
+
+{% tab title="11. GIF" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### **11.1.** Create new child -Texts- inside of the Div: _"_cardinfodiv2"
 
 > **New Text 1 name:** `cardinfodiv2text1`
 >
@@ -466,7 +639,7 @@
 
 
 
-### **8.5.** Set -Div's- _Size_ of: "cardinfodiv2"
+### **11.2.** Set -Div's- _Size_ of: "cardinfodiv2"
 
 > **Width**_:_ `Wrap`
 >
@@ -474,7 +647,7 @@
 
 <details>
 
-<summary>8<strong>.5. Written steps</strong></summary>
+<summary>11<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -492,13 +665,13 @@
 
 
 
-### 2.4. Set _Text_ of: "cardinfodiv2text1"
+### 11.3. Set _Text_ of: "cardinfodiv2text1"
 
 > **Selected Text:** `$350`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>11<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -511,13 +684,13 @@
 
 
 
-### 2.4. Set _Text_ of: "cardinfodiv2text2"
+### 11.4. Set _Text_ of: "cardinfodiv2text2"
 
 > **Selected Text:** `night`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>11<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -532,29 +705,29 @@
 
 
 
-## Step 3:
+## Step 12:
 
 ### Background Color, Radius, and Padding
 
 {% tabs %}
-{% tab title="3" %}
+{% tab title="12" %}
 {% tabs %}
-{% tab title="3. GIF" %}
+{% tab title="12. GIF" %}
 
 {% endtab %}
 
-{% tab title="3. Video" %}
+{% tab title="12. Video" %}
 
 {% endtab %}
 {% endtabs %}
 
-### 3.4. Set -Text- _Size_ of: "cardinfodiv2text1"
+### 12.1. Set -Text- _Size_ of: "cardinfodiv2text1"
 
 > `16`
 
 <details>
 
-<summary>3<strong>.4. Written steps</strong></summary>
+<summary>12.1<strong>. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -564,13 +737,13 @@
 
 </details>
 
-### 3.3. Set -Text- _Font Style_ of: "cardinfodiv2text1"
+### 12.2. Set -Text- _Font Style_ of: "cardinfodiv2text1"
 
 > `[B] Bold`
 
 <details>
 
-<summary>3<strong>.3. Written steps</strong></summary>
+<summary>12<strong>.2. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
@@ -583,13 +756,13 @@
 
 
 
-### 3.4. Set -Text- _Size_ of: "cardinfodiv2text2"
+### 12.3. Set -Text- _Size_ of: "cardinfodiv2text2"
 
 > `14`
 
 <details>
 
-<summary>3<strong>.4. Written steps</strong></summary>
+<summary>12<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -601,13 +774,13 @@
 
 
 
-### 1.4. Set -Text's- _Margin_ of: "carddiv"
+### 12.4. Set -Text's- _Margin_ of: "cardinfodiv2text2"
 
 > **Left:** `5`
 
 <details>
 
-<summary>1<strong>.4. Written steps</strong></summary>
+<summary>12<strong>.4. Written steps</strong></summary>
 
 #### -Inside the **Properties Panel**-
 
