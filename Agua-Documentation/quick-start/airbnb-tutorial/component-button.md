@@ -2,10 +2,6 @@
 
 <figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
-c
-
-c
-
 
 
 ## Step 0:
@@ -43,12 +39,6 @@ c
 {% endtabs %}
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-xssv
-
-ss
-{% endhint %}
 
 
 
@@ -126,7 +116,7 @@ Button
 
 
 
-## Step 1:
+## Step 2:
 
 ### Div, Icon, _Alignment, and Size_
 
