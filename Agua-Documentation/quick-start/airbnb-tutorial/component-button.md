@@ -293,25 +293,25 @@ search
 
 
 
-## Step 2:
+## Step 3:
 
 ### Background Color, Radius, and Padding
 
 {% tabs %}
-{% tab title="2" %}
+{% tab title="3" %}
 {% tabs %}
-{% tab title="2. GIF" %}
+{% tab title="3. GIF" %}
 
 {% endtab %}
 
-{% tab title="2. Video" %}
+{% tab title="3. Video" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### 2.1. Set -Div's- _Background Color_ of: "buttondiv&#x20;
+### 3.1. Set -Div's- _Background Color_ of: "buttondiv&#x20;
 
 > **HEX Color:**
 >
@@ -321,7 +321,7 @@ search
 
 <details>
 
-<summary>2<strong>.1. Written steps</strong></summary>
+<summary>3<strong>.1. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -341,7 +341,7 @@ FF385C
 
 
 
-### 2.2. Set -Div's- _Radius_ of: "buttondiv "
+### 3.2. Set -Div's- _Radius_ of: "buttondiv "
 
 > **Div's Radius:**
 >
@@ -351,7 +351,7 @@ FF385C
 
 <details>
 
-<summary>2<strong>.2. Written steps</strong></summary>
+<summary>3<strong>.2. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -369,7 +369,7 @@ FF385C
 
 
 
-### 2.3. Set -Div's- _Padding_ of: "buttondiv "
+### 3.3. Set -Div's- _Padding_ of: "buttondiv "
 
 > **Top:** `px`
 >
@@ -397,7 +397,7 @@ FF385C
 
 <details>
 
-<summary>2<strong>.3. Written steps</strong></summary>
+<summary>3<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -425,13 +425,13 @@ FF385C
 
 
 
-### 2.4. Set -Icon- _Size_ of: "buttonicon"
+### 3.4. Set -Icon- _Size_ of: "buttonicon"
 
 > `28`
 
 <details>
 
-<summary>2<strong>.4. Written steps</strong></summary>
+<summary>3<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -443,13 +443,13 @@ FF385C
 
 
 
-### 2.5. Set -Icon- _Color_ of: "buttonicon"
+### 3.5. Set -Icon- _Color_ of: "buttonicon"
 
 > `E0E0E0`
 
 <details>
 
-<summary>2<strong>.5. Written steps</strong></summary>
+<summary>3<strong>.5. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
