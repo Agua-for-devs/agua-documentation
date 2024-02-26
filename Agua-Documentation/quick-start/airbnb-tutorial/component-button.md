@@ -518,7 +518,7 @@ FF385C
 
 ***
 
-### Component
+### Create Component, and preview
 
 {% tabs %}
 {% tab title="4." %}
@@ -591,11 +591,13 @@ FF385C
 
 
 
-## Step 5:
+## Project Progress:
 
 ***
 
-### Save project progress
+### Save
+
+
 
 {% tabs %}
 {% tab title="Save" %}
@@ -613,7 +615,7 @@ FF385C
 
 
 
-## Code Review.
+## Code Review:
 
 ***
 
