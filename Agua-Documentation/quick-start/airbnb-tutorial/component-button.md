@@ -4,43 +4,7 @@
 
 
 
-## Step 0:
-
-### GitHub Repo, and Agua Project
-
-{% tabs %}
-{% tab title="New Project" %}
-{% tabs %}
-{% tab title="1. Video" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-### **1.** Fork -Airbnb's Demo- GitHub Repo
-
-> [https://github.com/Agua-for-devs/agua-airbnb-demo](https://github.com/Agua-for-devs/agua-airbnb-demo)
-
-
-
-### **2.** Clone locally your -Airbnb's Demo- GitHub forked Repo
-
-
-
-### **3.** Open your -Airbnb's Demo- folder in Agua
-
-> [https://editor.agua.app/](https://editor.agua.app/)
-
-{% tabs %}
-{% tab title="3." %}
-<figure><img src="../../.gitbook/assets/Open_project-min (2).gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-{% endtab %}
-{% endtabs %}
-
-
+##
 
 ## Step 1:
 

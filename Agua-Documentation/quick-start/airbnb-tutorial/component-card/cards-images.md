@@ -159,7 +159,7 @@
 
 <details>
 
-<summary>1<strong>.2. Written steps</strong></summary>
+<summary>6<strong>.1. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -239,7 +239,7 @@
 
 <details>
 
-<summary>7<strong>.2. Written steps</strong></summary>
+<summary>6<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -320,8 +320,6 @@
 </details>
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
