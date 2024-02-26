@@ -1,30 +1,36 @@
+---
+description: Discover what you can do in Agua!
+---
+
 # Component: Button
+
+#### You will start by building a button!
+
+***
+
+
 
 <figure><img src="../../.gitbook/assets/Airbnb_Button.png" alt=""><figcaption></figcaption></figure>
 
 
 
-##
-
 ## Step 1:
+
+***
 
 ## Screen, and Alignment
 
 {% tabs %}
-{% tab title="Basic Components" %}
+{% tab title="1." %}
 {% tabs %}
 {% tab title="1. Video" %}
-
-{% endtab %}
-
-{% tab title="1. GIF" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### **1.** Change -Screen's- _name_ of: "Screen"
+### **1.1.** Change -Screen's- _name_ of: "Screen"
 
 > &#x20;**Screen's new name:**
 >
@@ -32,9 +38,15 @@
 > Button
 > ```
 
+{% tabs %}
+{% tab title="1.1. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary><strong>1. Written steps</strong></summary>
+<summary><strong>1.1. Written steps</strong></summary>
 
 #### -Inside the Screen's _**Properties Panel**_-
 
@@ -52,15 +64,21 @@ Button
 
 
 
-### 2. Set -Screen's- _Alignment_ of_:_ "Button"
+### 1.2. Set -Screen's- _Alignment_ of_:_ "Button"
 
 > **Main:** `Axis center`
 >
 > **Cross:** `Axis center`
 
+{% tabs %}
+{% tab title="1.2. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>2<strong>. Written steps</strong></summary>
+<summary>1.2. Written steps</summary>
 
 #### -Inside each of the Screens' _**Properties Panel**_-
 
@@ -80,34 +98,40 @@ Button
 
 
 
+
+
 ## Step 2:
+
+***
 
 ### Div, Icon, _Alignment, and Size_
 
 {% tabs %}
-{% tab title="1" %}
+{% tab title="2." %}
 {% tabs %}
-{% tab title="1. Video" %}
-
-{% endtab %}
-
-{% tab title="1. GIF" %}
+{% tab title="2. Video" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
-### 1.1. Create new child -Div- inside of the Screen: "Button"
+### 2.1. Create new child -Div- inside of the Screen: "Button"
 
 > **New Div name:**
 >
 > <pre><code><strong>buttondiv
 > </strong></code></pre>
 
+{% tabs %}
+{% tab title="2.1. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>1<strong>.1. Written steps</strong></summary>
+<summary>2<strong>.1. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -136,7 +160,7 @@ buttondiv
 
 
 
-### **1.2.** Create new child -Icon- inside of the Div: _"_buttondiv"
+### **2.2.** Create new child -Icon- inside of the Div: _"_buttondiv"
 
 > **New Icon Name:**&#x20;
 >
@@ -144,9 +168,15 @@ buttondiv
 > buttonicon
 > ```
 
+{% tabs %}
+{% tab title="2.2. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>1<strong>.2. Written steps</strong></summary>
+<summary>2<strong>.2. Written steps</strong></summary>
 
 #### -Inside the _**Element Tree**_-
 
@@ -175,15 +205,21 @@ buttonicon
 
 
 
-### 1.3. Set -Div's- _Alignment_ of: "buttondiv"
+### 2.3. Set -Div's- _Alignment_ of: "buttondiv"
 
 > **Main:** `Axis center`
 >
 > **Cross:** `Axis center`
 
+{% tabs %}
+{% tab title="2.3 Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>1<strong>.3. Written steps</strong></summary>
+<summary>2<strong>.3. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -201,15 +237,21 @@ buttonicon
 
 
 
-### **1.4.** Set -Div's- _Size_ of: "buttondiv"
+### **2.4.** Set -Div's- _Size_ of: "buttondiv"
 
 > **Width**_:_ `Wrap`
 >
 > **Height**: `Wrap`
 
+{% tabs %}
+{% tab title="2.4. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>1<strong>.4. Written steps</strong></summary>
+<summary>2<strong>.4. Written steps</strong></summary>
 
 #### -Inside the Div's _**Properties Panel**_-
 
@@ -227,7 +269,7 @@ buttonicon
 
 
 
-### 1.5. Set _Icon_ of: "buttonicon"
+### 2.5. Set _Icon_ of: "buttonicon"
 
 > **Icon name:**&#x20;
 >
@@ -235,9 +277,15 @@ buttonicon
 > search
 > ```
 
+{% tabs %}
+{% tab title="2.5. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
-<summary>1<strong>.5. Written steps</strong></summary>
+<summary>2<strong>.5. Written steps</strong></summary>
 
 #### -Inside the Icon's _**Properties Panel**_-
 
@@ -259,15 +307,13 @@ search
 
 ## Step 3:
 
+***
+
 ### Background Color, Radius, and Padding
 
 {% tabs %}
-{% tab title="3" %}
+{% tab title="3." %}
 {% tabs %}
-{% tab title="3. GIF" %}
-
-{% endtab %}
-
 {% tab title="3. Video" %}
 
 {% endtab %}
@@ -282,6 +328,12 @@ search
 > ```
 > FF385C
 > ```
+
+{% tabs %}
+{% tab title="3.1. Gif" %}
+
+{% endtab %}
+{% endtabs %}
 
 <details>
 
@@ -312,6 +364,12 @@ FF385C
 > ```
 > 25
 > ```
+
+{% tabs %}
+{% tab title="3.2. Gif" %}
+
+{% endtab %}
+{% endtabs %}
 
 <details>
 
@@ -359,6 +417,12 @@ FF385C
 > 8
 > ```
 
+{% tabs %}
+{% tab title="3.3. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
 <details>
 
 <summary>3<strong>.3. Written steps</strong></summary>
@@ -391,7 +455,17 @@ FF385C
 
 ### 3.4. Set -Icon- _Size_ of: "buttonicon"
 
-> `28`
+> **Icon's Radius:**
+>
+> ```
+> 28
+> ```
+
+{% tabs %}
+{% tab title="3.4. Gif" %}
+
+{% endtab %}
+{% endtabs %}
 
 <details>
 
@@ -409,7 +483,17 @@ FF385C
 
 ### 3.5. Set -Icon- _Color_ of: "buttonicon"
 
-> `E0E0E0`
+> **HEX Color:**
+>
+> ```
+> E0E0E0
+> ```
+
+{% tabs %}
+{% tab title="3.5. Gif" %}
+
+{% endtab %}
+{% endtabs %}
 
 <details>
 
@@ -428,15 +512,116 @@ FF385C
 
 
 
-## Save.
+
+
+## Step 4:
+
+***
+
+### Component
+
+{% tabs %}
+{% tab title="4." %}
+{% tabs %}
+{% tab title="4. Video" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+### **4.1.** _Create Component:_
+
+{% tabs %}
+{% tab title="4.1. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
+<details>
+
+<summary>4<strong>.1. Written steps</strong></summary>
+
+#### -Inside the **Properties Panel**-
+
+#### \[Click] the "Create a Component" blue button.
+
+* You can only create Components out of Divs.
+
+</details>
+
+
+
+### **4.2.** Define _Component Name:_
+
+> `horizontaldivider`
+
+{% tabs %}
+{% tab title="4.2. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
+<details>
+
+<summary>4<strong>.2. Written steps</strong></summary>
+
+#### -Inside the Create Component **Menu**-
+
+#### \[Type] the _Component_ name.
+
+* The default name provided is the name of the Div.
+* You can use either use lowercase, uppercase, numbers or spaces.
+
+</details>
+
+
+
+### 4.3 Preview Component
+
+{% tabs %}
+{% tab title="4.3. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+## Step 5:
+
+***
+
+### Save project progress
 
 {% tabs %}
 {% tab title="Save" %}
+#### **\[Click]** **the **_**Save Button**_
+
 {% tabs %}
-{% tab title="GIF" %}
+{% tab title="Gif" %}
 
 {% endtab %}
+{% endtabs %}
+{% endtab %}
+{% endtabs %}
 
+
+
+
+
+## Code Review.
+
+***
+
+### IDE
+
+{% tabs %}
+{% tab title="Code Review" %}
+{% tabs %}
 {% tab title="Video" %}
 
 {% endtab %}
@@ -444,6 +629,42 @@ FF385C
 
 
 
-### Click the Save button.
+#### **1. Open the project folder in your IDE**
+
+{% tabs %}
+{% tab title="1. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+#### 2. Open /.agua/generated folder
+
+{% tabs %}
+{% tab title="2. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+#### 3. Open /src/agua/pages/button
+
+{% tabs %}
+{% tab title="3. Gif" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+#### 4. Review _button.jsx_ and screen.module.css
+
+{% tabs %}
+{% tab title="4. Gif" %}
+
+{% endtab %}
+{% endtabs %}
 {% endtab %}
 {% endtabs %}

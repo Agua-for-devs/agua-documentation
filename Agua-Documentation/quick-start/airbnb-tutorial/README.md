@@ -19,6 +19,8 @@ layout:
 
 ***
 
+
+
 You will start by building a [**button**](./#a.-component-button), followed by a [**card**](./#b.-component-card), and the site [**header**](./#c.-home-screen-header). By the end of this tutorial, you will have a responsive interface and its React code resembling Airbnb's homepage.
 
 {% embed url="https://airbnb-demo.agua.tools" %}
@@ -73,9 +75,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 
 #### -Inside the [Sign in](https://auth.agua.app/signin/)-
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/auth_agua_app.png" alt=""><figcaption></figcaption></figure>
-
-***
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -85,9 +89,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 
 * \[Click] the _Open Editor_ button.
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/console_agua_app.png" alt=""><figcaption></figcaption></figure>
-
-***
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -102,9 +108,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 * Agua works only in [Google Chrome](https://www.google.com/intl/es-419/chrome/).
 {% endhint %}
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app.png" alt=""><figcaption></figcaption></figure>
-
-***
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -114,9 +122,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 
 * Find your Repo folder an \[Click] the _Select_ button.
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_select_folder (1).png" alt=""><figcaption></figcaption></figure>
-
-***
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -126,9 +136,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 
 * \[Click] the _Edit files_ button.
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_edit_files_access.png" alt=""><figcaption></figcaption></figure>
-
-***
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -136,7 +148,11 @@ Retrieve all necessary Airbnb assets from GitHub and start your project in Agua
 
 #### -Inside your project [Editor](https://editor.agua.app/)-
 
+{% tabs %}
+{% tab title="3. Video" %}
 <figure><img src="../../.gitbook/assets/editor_agua_app_empty_project.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 {% endtab %}
 {% endtabs %}
 
@@ -183,8 +199,6 @@ To understand the basics of Agua, you will build a series of components and sect
 
 
 ### C. [Home Screen: Header](home-screen.md)
-
-
 
 {% tabs %}
 {% tab title="Component: Button" %}
